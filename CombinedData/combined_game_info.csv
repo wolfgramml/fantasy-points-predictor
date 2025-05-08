@@ -1,0 +1,179 @@
+Date,Away Team,Home Team,Away Team Score,Home Team Score,Away Rushing Yards,Away Passing Yards,Away Total Yards,Home Rushing Yards,Home Passing Yards, Home Total Yards,Start Time,Temperature,Windspeed,Roof,Surface
+2024-09-05,Baltimore Ravens,Kansas City Chiefs,20,27,185,267,452,72,281,353,8:20pm,67.0,8.0,outdoors,grass
+2024-09-06,Green Bay Packers,Philadelphia Eagles,29,34,163,251,414,144,266,410,8:15pm,,,,
+2024-09-08,Arizona Cardinals,Buffalo Bills,28,34,124,146,270,130,222,352,1:00pm,61.0,20.0,outdoors,a_turf
+2024-09-08,Carolina Panthers,New Orleans Saints,10,47,58,135,193,180,199,379,1:00pm,,,dome,sportturf
+2024-09-08,Dallas Cowboys,Cleveland Browns,33,17,102,163,265,93,137,230,4:25pm,68.0,15.0,outdoors,grass
+2024-09-08,Denver Broncos,Seattle Seahawks,20,26,99,132,231,146,158,304,4:05pm,73.0,7.0,outdoors,fieldturf
+2024-09-08,Houston Texans,Indianapolis Colts,29,27,213,204,417,104,199,303,1:00pm,,,retractable roof (open),fieldturf
+2024-09-08,Jacksonville Jaguars,Miami Dolphins,17,20,128,139,267,81,319,400,1:00pm,91.0,10.0,outdoors,grass
+2024-09-08,Las Vegas Raiders,Los Angeles Chargers,10,22,71,225,296,176,140,316,4:05pm,,,dome,matrixturf
+2024-09-08,Los Angeles Rams,Detroit Lions,20,26,83,304,387,163,200,363,8:20pm,,,dome,fieldturf
+2024-09-08,Minnesota Vikings,New York Giants,28,6,111,201,312,74,166,240,1:00pm,64.0,10.0,outdoors,fieldturf
+2024-09-08,New England Patriots,Cincinnati Bengals,16,10,170,120,290,70,154,224,1:00pm,66.0,5.0,outdoors,fieldturf
+2024-09-08,Pittsburgh Steelers,Atlanta Falcons,18,10,137,133,270,89,137,226,1:00pm,,,retractable roof (closed),fieldturf
+2024-09-08,Tennessee Titans,Chicago Bears,17,24,140,104,244,84,64,148,1:00pm,67.0,8.0,outdoors,grass
+2024-09-08,Washington Commanders,Tampa Bay Buccaneers,20,37,138,161,299,112,280,392,4:25pm,93.0,6.0,outdoors,grass
+2024-09-09,New York Jets,San Francisco 49ers,19,32,68,198,266,180,221,401,8:15pm,76.0,10.0,outdoors,grass
+2024-09-12,Buffalo Bills,Miami Dolphins,31,10,108,139,247,139,212,351,8:15pm,86.0,3.0,outdoors,grass
+2024-09-15,Chicago Bears,Houston Texans,13,19,71,134,205,75,235,310,8:20pm,,,retractable roof (open),astroturf
+2024-09-15,Cincinnati Bengals,Kansas City Chiefs,25,26,74,246,320,149,137,286,4:25pm,89.0,8.0,outdoors,grass
+2024-09-15,Cleveland Browns,Jacksonville Jaguars,18,13,125,172,297,127,196,323,1:00pm,80.0,12.0,outdoors,grass
+2024-09-15,Indianapolis Colts,Green Bay Packers,10,16,140,198,338,261,122,383,1:00pm,85.0,7.0,outdoors,grass
+2024-09-15,Las Vegas Raiders,Baltimore Ravens,26,23,27,233,260,151,232,383,1:00pm,76.0,10.0,outdoors,grass
+2024-09-15,Los Angeles Chargers,Carolina Panthers,26,3,219,130,349,90,69,159,1:00pm,78.0,13.0,outdoors,grass
+2024-09-15,Los Angeles Rams,Arizona Cardinals,10,41,53,192,245,231,258,489,4:05pm,,,retractable roof (closed),grass
+2024-09-15,New Orleans Saints,Dallas Cowboys,44,19,190,242,432,68,285,353,1:00pm,,,retractable roof (closed),matrixturf
+2024-09-15,New York Giants,Washington Commanders,18,21,129,175,304,215,210,425,1:00pm,82.0,11.0,outdoors,grass
+2024-09-15,New York Jets,Tennessee Titans,24,17,101,164,265,130,170,300,1:00pm,80.0,13.0,outdoors,grass
+2024-09-15,Pittsburgh Steelers,Denver Broncos,13,6,141,110,251,64,231,295,4:25pm,83.0,4.0,outdoors,grass
+2024-09-15,San Francisco 49ers,Minnesota Vikings,17,23,102,294,396,146,257,403,1:00pm,,,dome,sportturf
+2024-09-15,Seattle Seahawks,New England Patriots,23,20,46,312,358,185,125,310,1:00pm,77.0,5.0,outdoors,fieldturf
+2024-09-15,Tampa Bay Buccaneers,Detroit Lions,20,16,70,146,216,139,324,463,1:00pm,,,dome,fieldturf
+2024-09-16,Atlanta Falcons,Philadelphia Eagles,22,21,152,233,385,186,179,365,8:15pm,71.0,9.0,outdoors,grass
+2024-09-19,New England Patriots,New York Jets,3,24,78,61,139,133,267,400,8:15pm,75.0,5.0,outdoors,fieldturf
+2024-09-22,Baltimore Ravens,Dallas Cowboys,28,25,274,182,456,51,361,412,4:25pm,,,retractable roof (closed),matrixturf
+2024-09-22,Carolina Panthers,Las Vegas Raiders,36,22,131,306,437,55,276,331,4:05pm,,,dome,grass
+2024-09-22,Chicago Bears,Indianapolis Colts,16,21,63,332,395,150,156,306,1:00pm,,,retractable roof (closed),fieldturf
+2024-09-22,Denver Broncos,Tampa Bay Buccaneers,26,7,136,216,352,91,132,223,1:00pm,85.0,6.0,outdoors,grass
+2024-09-22,Detroit Lions,Arizona Cardinals,20,13,187,186,373,77,200,277,4:25pm,,,retractable roof (closed),grass
+2024-09-22,Green Bay Packers,Tennessee Titans,30,14,188,190,378,33,204,237,1:00pm,87.0,7.0,outdoors,grass
+2024-09-22,Houston Texans,Minnesota Vikings,7,34,38,258,296,118,156,274,1:00pm,,,dome,sportturf
+2024-09-22,Kansas City Chiefs,Atlanta Falcons,22,17,128,217,345,82,229,311,8:20pm,,,retractable roof (open),fieldturf
+2024-09-22,Los Angeles Chargers,Pittsburgh Steelers,10,20,61,105,166,114,232,346,1:00pm,72.0,2.0,outdoors,grass
+2024-09-22,Miami Dolphins,Seattle Seahawks,3,24,65,140,205,100,270,370,4:05pm,64.0,2.0,outdoors,fieldturf
+2024-09-22,New York Giants,Cleveland Browns,21,15,112,228,340,69,148,217,1:00pm,76.0,4.0,outdoors,grass
+2024-09-22,Philadelphia Eagles,New Orleans Saints,15,12,172,288,460,89,130,219,1:00pm,,,dome,sportturf
+2024-09-22,San Francisco 49ers,Los Angeles Rams,24,27,137,288,425,98,198,296,4:25pm,,,dome,matrixturf
+2024-09-23,Jacksonville Jaguars,Buffalo Bills,10,47,92,147,239,122,266,388,7:30pm,68.0,5.0,outdoors,a_turf
+2024-09-23,Washington Commanders,Cincinnati Bengals,38,33,108,248,356,124,312,436,8:15pm,69.0,5.0,outdoors,fieldturf
+2024-09-26,Dallas Cowboys,New York Giants,20,15,80,213,293,26,277,303,8:15pm,74.0,3.0,outdoors,fieldturf
+2024-09-29,Buffalo Bills,Baltimore Ravens,10,35,81,155,236,271,156,427,8:20pm,68.0,8.0,outdoors,grass
+2024-09-29,Cincinnati Bengals,Carolina Panthers,34,24,141,232,373,155,220,375,1:00pm,78.0,6.0,outdoors,grass
+2024-09-29,Cleveland Browns,Las Vegas Raiders,16,20,92,149,241,152,116,268,4:25pm,,,dome,grass
+2024-09-29,Denver Broncos,New York Jets,10,9,126,60,186,64,184,248,1:00pm,67.0,8.0,outdoors,fieldturf
+2024-09-29,Jacksonville Jaguars,Houston Texans,20,24,158,155,313,101,334,435,1:00pm,,,retractable roof (closed),astroturf
+2024-09-29,Kansas City Chiefs,Los Angeles Chargers,17,10,101,228,329,55,169,224,4:25pm,,,dome,matrixturf
+2024-09-29,Los Angeles Rams,Chicago Bears,18,24,119,203,322,131,133,264,1:00pm,70.0,16.0,outdoors,grass
+2024-09-29,Minnesota Vikings,Green Bay Packers,31,29,120,254,374,86,379,465,1:00pm,71.0,15.0,outdoors,grass
+2024-09-29,New England Patriots,San Francisco 49ers,13,30,73,143,216,148,283,431,4:05pm,71.0,5.0,outdoors,grass
+2024-09-29,New Orleans Saints,Atlanta Falcons,24,26,131,235,366,88,227,315,1:00pm,,,retractable roof (closed),fieldturf
+2024-09-29,Philadelphia Eagles,Tampa Bay Buccaneers,16,33,113,114,227,111,334,445,1:00pm,88.0,9.0,outdoors,grass
+2024-09-29,Pittsburgh Steelers,Indianapolis Colts,24,27,122,282,404,133,225,358,1:00pm,,,retractable roof (closed),fieldturf
+2024-09-29,Washington Commanders,Arizona Cardinals,42,14,216,233,449,181,115,296,4:05pm,,,retractable roof (closed),grass
+2024-09-30,Seattle Seahawks,Detroit Lions,29,42,133,383,516,116,273,389,8:15pm,,,dome,fieldturf
+2024-09-30,Tennessee Titans,Miami Dolphins,31,12,142,102,244,106,78,184,7:30pm,86.0,9.0,outdoors,grass
+2024-10-03,Tampa Bay Buccaneers,Atlanta Falcons,30,36,160,173,333,73,477,550,8:15pm,,,retractable roof (closed),fieldturf
+2024-10-06,Arizona Cardinals,San Francisco 49ers,24,23,169,189,358,153,231,384,4:05pm,89.0,3.0,outdoors,grass
+2024-10-06,Baltimore Ravens,Cincinnati Bengals,41,38,175,345,520,71,371,442,1:00pm,81.0,10.0,outdoors,fieldturf
+2024-10-06,Buffalo Bills,Houston Texans,20,23,150,126,276,94,331,425,1:00pm,,,retractable roof (closed),astroturf
+2024-10-06,Carolina Panthers,Chicago Bears,10,36,120,172,292,128,296,424,1:00pm,74.0,7.0,outdoors,grass
+2024-10-06,Cleveland Browns,Washington Commanders,13,34,104,108,212,215,219,434,1:00pm,73.0,5.0,outdoors,grass
+2024-10-06,Dallas Cowboys,Pittsburgh Steelers,20,17,109,336,445,92,134,226,8:20pm,67.0,6.0,outdoors,grass
+2024-10-06,Green Bay Packers,Los Angeles Rams,24,19,126,202,328,134,236,370,4:25pm,,,dome,matrixturf
+2024-10-06,Indianapolis Colts,Jacksonville Jaguars,34,37,99,348,447,126,371,497,1:00pm,74.0,4.0,outdoors,grass
+2024-10-06,Las Vegas Raiders,Denver Broncos,18,34,115,215,330,109,180,289,4:05pm,73.0,7.0,outdoors,grass
+2024-10-06,Miami Dolphins,New England Patriots,15,10,193,179,372,151,148,299,1:00pm,65.0,2.0,outdoors,fieldturf
+2024-10-06,New York Giants,Seattle Seahawks,29,20,175,245,420,102,231,333,4:25pm,61.0,3.0,outdoors,fieldturf
+2024-10-06,New York Jets,Minnesota Vikings,17,23,36,218,254,82,171,253,9:30am,59.0,8.0,outdoors,grass
+2024-10-07,New Orleans Saints,Kansas City Chiefs,13,26,46,174,220,139,321,460,8:15pm,70.0,1.0,outdoors,grass
+2024-10-10,San Francisco 49ers,Seattle Seahawks,36,24,228,255,483,52,306,358,8:15pm,59.0,10.0,outdoors,fieldturf
+2024-10-13,Arizona Cardinals,Green Bay Packers,13,34,89,214,303,179,258,437,1:00pm,50.0,4.0,outdoors,grass
+2024-10-13,Atlanta Falcons,Carolina Panthers,38,20,198,225,423,114,221,335,4:25pm,79.0,9.0,outdoors,grass
+2024-10-13,Cincinnati Bengals,New York Giants,17,7,121,183,304,119,190,309,8:20pm,63.0,2.0,outdoors,fieldturf
+2024-10-13,Cleveland Browns,Philadelphia Eagles,16,20,100,144,244,116,256,372,1:00pm,82.0,10.0,outdoors,grass
+2024-10-13,Detroit Lions,Dallas Cowboys,47,9,184,308,492,53,198,251,4:25pm,,,retractable roof (closed),matrixturf
+2024-10-13,Houston Texans,New England Patriots,41,21,192,176,368,82,209,291,1:00pm,53.0,5.0,outdoors,fieldturf
+2024-10-13,Indianapolis Colts,Tennessee Titans,20,17,80,189,269,146,95,241,1:00pm,80.0,12.0,outdoors,grass
+2024-10-13,Jacksonville Jaguars,Chicago Bears,16,35,68,210,278,152,221,373,9:30am,54.0,3.0,outdoors,grass
+2024-10-13,Los Angeles Chargers,Denver Broncos,23,16,128,222,350,110,206,316,4:05pm,65.0,7.0,outdoors,grass
+2024-10-13,Pittsburgh Steelers,Las Vegas Raiders,32,13,183,110,293,57,218,275,4:05pm,,,dome,grass
+2024-10-13,Tampa Bay Buccaneers,New Orleans Saints,51,27,277,317,594,81,222,303,1:00pm,,,dome,sportturf
+2024-10-13,Washington Commanders,Baltimore Ravens,23,30,52,253,305,176,308,484,1:00pm,75.0,8.0,outdoors,grass
+2024-10-14,Buffalo Bills,New York Jets,23,20,149,210,359,121,272,393,8:15pm,49.0,14.0,outdoors,fieldturf
+2024-10-17,Denver Broncos,New Orleans Saints,33,10,225,164,389,97,174,271,8:15pm,,,dome,sportturf
+2024-10-20,Carolina Panthers,Washington Commanders,7,40,95,85,180,214,207,421,4:05pm,76.0,2.0,outdoors,grass
+2024-10-20,Cincinnati Bengals,Cleveland Browns,21,14,59,164,223,77,259,336,1:00pm,62.0,8.0,outdoors,grass
+2024-10-20,Detroit Lions,Minnesota Vikings,31,29,144,247,391,139,244,383,1:00pm,,,dome,sportturf
+2024-10-20,Houston Texans,Green Bay Packers,22,24,142,55,197,82,195,277,1:00pm,72.0,3.0,outdoors,grass
+2024-10-20,Kansas City Chiefs,San Francisco 49ers,28,18,184,145,329,101,209,310,4:25pm,78.0,3.0,outdoors,grass
+2024-10-20,Las Vegas Raiders,Los Angeles Rams,15,20,122,195,317,115,144,259,4:05pm,,,dome,matrixturf
+2024-10-20,Miami Dolphins,Indianapolis Colts,10,16,188,149,337,155,129,284,1:00pm,,,retractable roof (closed),fieldturf
+2024-10-20,New England Patriots,Jacksonville Jaguars,16,32,38,257,295,171,193,364,9:30am,63.0,12.0,outdoors,grass
+2024-10-20,New York Jets,Pittsburgh Steelers,15,37,54,269,323,149,260,409,8:20pm,60.0,4.0,outdoors,grass
+2024-10-20,Philadelphia Eagles,New York Giants,28,3,269,70,339,76,43,119,1:00pm,71.0,4.0,outdoors,fieldturf
+2024-10-20,Seattle Seahawks,Atlanta Falcons,34,14,103,236,339,155,214,369,1:00pm,,,retractable roof (open),fieldturf
+2024-10-20,Tennessee Titans,Buffalo Bills,10,34,89,200,289,74,315,389,1:00pm,66.0,12.0,outdoors,a_turf
+2024-10-21,Baltimore Ravens,Tampa Bay Buccaneers,41,31,244,264,508,125,356,481,8:15pm,80.0,8.0,outdoors,grass
+2024-10-21,Los Angeles Chargers,Arizona Cardinals,15,17,59,336,395,181,145,326,9:00pm,,,retractable roof (open),grass
+2024-10-24,Minnesota Vikings,Los Angeles Rams,20,30,64,212,276,107,279,386,8:15pm,,,dome,matrixturf
+2024-10-27,Arizona Cardinals,Miami Dolphins,28,27,82,307,389,150,227,377,1:00pm,82.0,14.0,outdoors,grass
+2024-10-27,Atlanta Falcons,Tampa Bay Buccaneers,31,26,129,265,394,102,330,432,1:00pm,79.0,6.0,outdoors,grass
+2024-10-27,Baltimore Ravens,Cleveland Browns,24,29,124,263,387,80,321,401,1:00pm,52.0,4.0,outdoors,grass
+2024-10-27,Buffalo Bills,Seattle Seahawks,31,10,164,281,445,32,201,233,4:05pm,55.0,14.0,outdoors,fieldturf
+2024-10-27,Carolina Panthers,Denver Broncos,14,28,69,215,284,102,298,400,4:25pm,76.0,4.0,outdoors,grass
+2024-10-27,Chicago Bears,Washington Commanders,15,18,202,105,307,168,313,481,4:25pm,58.0,2.0,outdoors,grass
+2024-10-27,Dallas Cowboys,San Francisco 49ers,24,30,56,236,292,223,246,469,8:20pm,69.0,9.0,outdoors,grass
+2024-10-27,Green Bay Packers,Jacksonville Jaguars,30,27,170,252,422,91,299,390,1:00pm,84.0,4.0,outdoors,grass
+2024-10-27,Indianapolis Colts,Houston Texans,20,23,163,140,303,96,267,363,1:00pm,,,retractable roof (closed),astroturf
+2024-10-27,Kansas City Chiefs,Las Vegas Raiders,27,20,82,252,334,33,195,228,4:25pm,,,dome,grass
+2024-10-27,New Orleans Saints,Los Angeles Chargers,8,26,117,249,366,122,256,378,4:05pm,,,dome,matrixturf
+2024-10-27,New York Jets,New England Patriots,22,25,112,224,336,112,136,248,1:00pm,53.0,8.0,outdoors,fieldturf
+2024-10-27,Philadelphia Eagles,Cincinnati Bengals,37,17,161,236,397,58,222,280,1:00pm,59.0,6.0,outdoors,fieldturf
+2024-10-27,Tennessee Titans,Detroit Lions,14,52,158,258,416,164,61,225,1:00pm,,,dome,fieldturf
+2024-10-28,New York Giants,Pittsburgh Steelers,18,26,157,237,394,167,259,426,8:15pm,54.0,7.0,outdoors,grass
+2024-10-31,Houston Texans,New York Jets,13,21,187,135,322,100,193,293,8:15pm,71.0,8.0,outdoors,fieldturf
+2024-11-03,Chicago Bears,Arizona Cardinals,9,29,69,172,241,213,137,350,4:05pm,,,retractable roof (open),grass
+2024-11-03,Dallas Cowboys,Atlanta Falcons,21,27,137,241,378,100,210,310,1:00pm,,,retractable roof (closed),fieldturf
+2024-11-03,Denver Broncos,Baltimore Ravens,10,41,122,197,319,127,269,396,1:00pm,57.0,3.0,outdoors,grass
+2024-11-03,Detroit Lions,Green Bay Packers,24,14,124,137,261,138,273,411,4:25pm,50.0,15.0,outdoors,grass
+2024-11-03,Indianapolis Colts,Minnesota Vikings,13,21,68,159,227,133,282,415,8:20pm,,,dome,sportturf
+2024-11-03,Jacksonville Jaguars,Philadelphia Eagles,23,28,60,155,215,237,210,447,4:05pm,57.0,6.0,outdoors,grass
+2024-11-03,Las Vegas Raiders,Cincinnati Bengals,24,41,60,157,217,130,243,373,1:00pm,67.0,7.0,outdoors,fieldturf
+2024-11-03,Los Angeles Chargers,Cleveland Browns,27,10,96,246,342,79,213,292,1:00pm,57.0,10.0,outdoors,grass
+2024-11-03,Los Angeles Rams,Seattle Seahawks,26,20,68,298,366,107,317,424,4:25pm,52.0,4.0,outdoors,fieldturf
+2024-11-03,Miami Dolphins,Buffalo Bills,27,30,149,224,373,94,231,325,1:00pm,54.0,9.0,outdoors,a_turf
+2024-11-03,New England Patriots,Tennessee Titans,17,20,110,185,295,167,233,400,1:00pm,75.0,10.0,outdoors,grass
+2024-11-03,New Orleans Saints,Carolina Panthers,22,23,197,230,427,80,166,246,1:00pm,66.0,7.0,outdoors,grass
+2024-11-03,Washington Commanders,New York Giants,27,22,149,209,358,164,162,326,1:00pm,52.0,6.0,outdoors,fieldturf
+2024-11-04,Tampa Bay Buccaneers,Kansas City Chiefs,24,30,95,189,284,124,260,384,8:15pm,63.0,6.0,outdoors,grass
+2024-11-07,Cincinnati Bengals,Baltimore Ravens,34,35,49,421,470,99,290,389,8:15pm,69.0,6.0,outdoors,grass
+2024-11-10,Atlanta Falcons,New Orleans Saints,17,20,181,287,468,96,269,365,1:00pm,,,dome,sportturf
+2024-11-10,Buffalo Bills,Indianapolis Colts,30,20,135,280,415,121,240,361,1:00pm,,,retractable roof (closed),fieldturf
+2024-11-10,Denver Broncos,Kansas City Chiefs,14,16,78,182,260,57,243,300,1:00pm,57.0,12.0,outdoors,grass
+2024-11-10,Detroit Lions,Houston Texans,26,23,105,240,345,56,192,248,8:20pm,,,retractable roof (open),astroturf
+2024-11-10,Minnesota Vikings,Jacksonville Jaguars,12,7,169,233,402,56,87,143,1:00pm,79.0,7.0,outdoors,grass
+2024-11-10,New England Patriots,Chicago Bears,19,3,144,184,328,73,69,142,1:00pm,60.0,6.0,outdoors,grass
+2024-11-10,New York Giants,Carolina Panthers,17,20,167,175,342,188,118,306,9:30am,,,,
+2024-11-10,New York Jets,Arizona Cardinals,6,31,79,128,207,147,259,406,4:25pm,,,retractable roof (open),grass
+2024-11-10,Philadelphia Eagles,Dallas Cowboys,34,6,187,161,348,97,49,146,4:25pm,,,retractable roof (closed),matrixturf
+2024-11-10,Pittsburgh Steelers,Washington Commanders,28,27,140,172,312,60,182,242,1:00pm,57.0,9.0,outdoors,grass
+2024-11-10,San Francisco 49ers,Tampa Bay Buccaneers,23,20,75,338,413,110,105,215,1:00pm,85.0,9.0,outdoors,grass
+2024-11-10,Tennessee Titans,Los Angeles Chargers,17,27,132,157,289,145,164,309,4:05pm,,,dome,matrixturf
+2024-11-11,Miami Dolphins,Los Angeles Rams,23,15,67,171,238,70,257,327,8:15pm,,,dome,matrixturf
+2024-11-14,Washington Commanders,Philadelphia Eagles,18,26,93,171,264,228,206,434,8:15pm,46.0,9.0,outdoors,grass
+2024-11-17,Atlanta Falcons,Denver Broncos,6,38,50,176,226,105,295,400,4:05pm,55.0,9.0,outdoors,grass
+2024-11-17,Baltimore Ravens,Pittsburgh Steelers,16,18,124,205,329,122,181,303,1:00pm,52.0,5.0,outdoors,grass
+2024-11-17,Cincinnati Bengals,Los Angeles Chargers,27,34,110,342,452,155,280,435,8:20pm,,,dome,matrixturf
+2024-11-17,Cleveland Browns,New Orleans Saints,14,35,66,377,443,214,259,473,1:00pm,,,dome,sportturf
+2024-11-17,Green Bay Packers,Chicago Bears,20,19,106,260,366,179,212,391,1:00pm,54.0,5.0,outdoors,grass
+2024-11-17,Indianapolis Colts,New York Jets,28,27,91,241,332,91,162,253,1:00pm,62.0,4.0,outdoors,fieldturf
+2024-11-17,Jacksonville Jaguars,Detroit Lions,6,52,41,129,170,196,449,645,1:00pm,,,dome,fieldturf
+2024-11-17,Kansas City Chiefs,Buffalo Bills,21,30,78,181,259,104,262,366,4:25pm,50.0,3.0,outdoors,a_turf
+2024-11-17,Las Vegas Raiders,Miami Dolphins,19,34,60,268,328,82,271,353,1:00pm,80.0,16.0,outdoors,grass
+2024-11-17,Los Angeles Rams,New England Patriots,28,22,107,295,402,125,257,382,1:00pm,59.0,9.0,outdoors,fieldturf
+2024-11-17,Minnesota Vikings,Tennessee Titans,23,13,82,236,318,33,261,294,1:00pm,66.0,7.0,outdoors,grass
+2024-11-17,Seattle Seahawks,San Francisco 49ers,20,17,94,195,289,131,146,277,4:05pm,59.0,4.0,outdoors,grass
+2024-11-18,Houston Texans,Dallas Cowboys,34,10,141,250,391,64,324,388,8:15pm,,,retractable roof (closed),matrixturf
+2024-11-21,Pittsburgh Steelers,Cleveland Browns,19,24,120,248,368,85,219,304,8:15pm,36.0,13.0,outdoors,grass
+2024-11-24,Arizona Cardinals,Seattle Seahawks,6,16,49,249,298,65,220,285,4:25pm,45.0,5.0,outdoors,fieldturf
+2024-11-24,Dallas Cowboys,Washington Commanders,34,26,91,241,332,145,267,412,1:00pm,55.0,5.0,outdoors,grass
+2024-11-24,Denver Broncos,Las Vegas Raiders,29,19,63,262,325,69,300,369,4:05pm,,,dome,grass
+2024-11-24,Detroit Lions,Indianapolis Colts,24,6,137,253,390,96,172,268,1:00pm,,,retractable roof (closed),fieldturf
+2024-11-24,Kansas City Chiefs,Carolina Panthers,30,27,165,226,391,85,249,334,1:00pm,61.0,5.0,outdoors,grass
+2024-11-24,Minnesota Vikings,Chicago Bears,30,27,124,328,452,78,320,398,1:00pm,47.0,5.0,outdoors,grass
+2024-11-24,New England Patriots,Miami Dolphins,15,34,86,183,269,65,308,373,1:00pm,77.0,6.0,outdoors,grass
+2024-11-24,Philadelphia Eagles,Los Angeles Rams,37,20,314,167,481,92,198,290,8:20pm,,,dome,matrixturf
+2024-11-24,San Francisco 49ers,Green Bay Packers,10,38,44,197,241,169,156,325,4:25pm,43.0,11.0,outdoors,grass
+2024-11-24,Tampa Bay Buccaneers,New York Giants,30,7,156,294,450,76,169,245,1:00pm,50.0,13.0,outdoors,fieldturf
+2024-11-24,Tennessee Titans,Houston Texans,32,27,132,237,369,40,220,260,1:00pm,,,retractable roof (closed),astroturf

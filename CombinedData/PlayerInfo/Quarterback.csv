@@ -1,0 +1,420 @@
+Date,Away Team,Home Team,Player,Player Team,Passing Yards,Passing TD,Passing INT,Receptions,Receiving Yards,Receiving TD,Rushing Yards,Rushing TD,Fumbles Lost,Pos
+2024-09-05,Baltimore Ravens,Kansas City Chiefs,lamar jackson,Baltimore Ravens,273,1,0,0,0,0,122,0,1,QB
+2024-09-05,Baltimore Ravens,Kansas City Chiefs,patrick mahomes,Kansas City Chiefs,291,1,1,1,2,0,3,0,0,QB
+2024-09-06,Green Bay Packers,Philadelphia Eagles,jordan love,Green Bay Packers,260,2,1,0,0,0,0,0,0,QB
+2024-09-06,Green Bay Packers,Philadelphia Eagles,malik willis,Green Bay Packers,0,0,0,0,0,0,0,0,0,QB
+2024-09-06,Green Bay Packers,Philadelphia Eagles,jalen hurts,Philadelphia Eagles,278,2,2,0,0,0,33,0,1,QB
+2024-09-08,Arizona Cardinals,Buffalo Bills,kyler murray,Arizona Cardinals,162,1,0,0,0,0,57,0,1,QB
+2024-09-08,Arizona Cardinals,Buffalo Bills,josh allen,Buffalo Bills,232,2,0,0,0,0,39,2,1,QB
+2024-09-08,Carolina Panthers,New Orleans Saints,bryce young,Carolina Panthers,161,0,2,0,0,0,12,1,0,QB
+2024-09-08,Carolina Panthers,New Orleans Saints,andy dalton,Carolina Panthers,0,0,0,0,0,0,0,0,0,QB
+2024-09-08,Carolina Panthers,New Orleans Saints,derek carr,New Orleans Saints,200,3,0,0,0,0,13,0,0,QB
+2024-09-08,Carolina Panthers,New Orleans Saints,jake haener,New Orleans Saints,0,0,0,0,0,0,0,0,0,QB
+2024-09-08,Dallas Cowboys,Cleveland Browns,dak prescott,Dallas Cowboys,179,1,0,0,0,0,3,0,0,QB
+2024-09-08,Dallas Cowboys,Cleveland Browns,cooper rush,Dallas Cowboys,0,0,0,0,0,0,-1,0,0,QB
+2024-09-08,Dallas Cowboys,Cleveland Browns,deshaun watson,Cleveland Browns,169,1,2,0,0,0,39,0,0,QB
+2024-09-08,Denver Broncos,Seattle Seahawks,bo nix,Denver Broncos,138,0,2,0,0,0,35,1,0,QB
+2024-09-08,Denver Broncos,Seattle Seahawks,geno smith,Seattle Seahawks,171,1,1,0,0,0,30,1,0,QB
+2024-09-08,Houston Texans,Indianapolis Colts,c.j. stroud,Houston Texans,234,2,0,0,0,0,13,0,0,QB
+2024-09-08,Houston Texans,Indianapolis Colts,anthony richardson,Indianapolis Colts,212,2,1,0,0,0,56,1,0,QB
+2024-09-08,Jacksonville Jaguars,Miami Dolphins,trevor lawrence,Jacksonville Jaguars,162,1,0,0,0,0,8,0,0,QB
+2024-09-08,Jacksonville Jaguars,Miami Dolphins,tua tagovailoa,Miami Dolphins,338,1,0,0,0,0,11,0,0,QB
+2024-09-08,Las Vegas Raiders,Los Angeles Chargers,justin herbert,Los Angeles Chargers,144,1,0,0,0,0,6,0,0,QB
+2024-09-08,Los Angeles Rams,Detroit Lions,matthew stafford,Los Angeles Rams,317,1,1,0,0,0,0,0,0,QB
+2024-09-08,Los Angeles Rams,Detroit Lions,jared goff,Detroit Lions,217,1,1,0,0,0,7,0,0,QB
+2024-09-08,Minnesota Vikings,New York Giants,sam darnold,Minnesota Vikings,208,2,1,0,0,0,3,0,0,QB
+2024-09-08,Minnesota Vikings,New York Giants,daniel jones,New York Giants,186,0,2,0,0,0,15,0,0,QB
+2024-09-08,New England Patriots,Cincinnati Bengals,jacoby brissett,New England Patriots,121,0,0,0,0,0,32,0,0,QB
+2024-09-08,New England Patriots,Cincinnati Bengals,joe burrow,Cincinnati Bengals,164,0,0,0,0,0,15,0,0,QB
+2024-09-08,Pittsburgh Steelers,Atlanta Falcons,justin fields,Pittsburgh Steelers,156,0,0,0,0,0,57,0,0,QB
+2024-09-08,Pittsburgh Steelers,Atlanta Falcons,kirk cousins,Atlanta Falcons,155,1,2,0,0,0,0,0,0,QB
+2024-09-08,Tennessee Titans,Chicago Bears,will levis,Tennessee Titans,127,1,2,0,0,0,36,0,1,QB
+2024-09-08,Tennessee Titans,Chicago Bears,caleb williams,Chicago Bears,93,0,0,0,0,0,15,0,0,QB
+2024-09-08,Washington Commanders,Tampa Bay Buccaneers,jayden daniels,Washington Commanders,184,0,0,0,0,0,88,2,0,QB
+2024-09-08,Washington Commanders,Tampa Bay Buccaneers,baker mayfield,Tampa Bay Buccaneers,289,4,0,0,0,0,21,0,0,QB
+2024-09-08,Washington Commanders,Tampa Bay Buccaneers,kyle trask,Tampa Bay Buccaneers,0,0,0,0,0,0,-2,0,0,QB
+2024-09-09,New York Jets,San Francisco 49ers,aaron rodgers,New York Jets,167,1,1,0,0,0,-1,0,0,QB
+2024-09-09,New York Jets,San Francisco 49ers,tyrod taylor,New York Jets,36,1,0,0,0,0,7,0,0,QB
+2024-09-09,New York Jets,San Francisco 49ers,brock purdy,San Francisco 49ers,231,0,0,0,0,0,11,0,0,QB
+2024-09-09,New York Jets,San Francisco 49ers,brandon allen,San Francisco 49ers,0,0,0,0,0,0,-1,0,0,QB
+2024-09-12,Buffalo Bills,Miami Dolphins,josh allen,Buffalo Bills,139,1,0,0,0,0,2,0,0,QB
+2024-09-12,Buffalo Bills,Miami Dolphins,mitchell trubisky,Buffalo Bills,0,0,0,0,0,0,-2,0,0,QB
+2024-09-12,Buffalo Bills,Miami Dolphins,tua tagovailoa,Miami Dolphins,145,1,3,0,0,0,17,0,0,QB
+2024-09-12,Buffalo Bills,Miami Dolphins,skylar thompson,Miami Dolphins,80,0,0,0,0,0,4,0,0,QB
+2024-09-15,Chicago Bears,Houston Texans,caleb williams,Chicago Bears,174,0,2,0,0,0,44,0,0,QB
+2024-09-15,Chicago Bears,Houston Texans,c.j. stroud,Houston Texans,260,1,0,0,0,0,-1,0,0,QB
+2024-09-15,Cincinnati Bengals,Kansas City Chiefs,joe burrow,Cincinnati Bengals,258,2,0,0,0,0,9,0,1,QB
+2024-09-15,Cincinnati Bengals,Kansas City Chiefs,patrick mahomes,Kansas City Chiefs,151,2,2,0,0,0,29,0,0,QB
+2024-09-15,Cleveland Browns,Jacksonville Jaguars,deshaun watson,Cleveland Browns,186,0,0,0,0,0,20,1,0,QB
+2024-09-15,Cleveland Browns,Jacksonville Jaguars,jameis winston,Cleveland Browns,0,0,0,0,0,0,4,0,0,QB
+2024-09-15,Cleveland Browns,Jacksonville Jaguars,trevor lawrence,Jacksonville Jaguars,220,0,0,0,0,0,45,0,0,QB
+2024-09-15,Indianapolis Colts,Green Bay Packers,anthony richardson,Indianapolis Colts,204,1,3,0,0,0,37,0,0,QB
+2024-09-15,Indianapolis Colts,Green Bay Packers,malik willis,Green Bay Packers,122,1,0,0,0,0,41,0,0,QB
+2024-09-15,Las Vegas Raiders,Baltimore Ravens,lamar jackson,Baltimore Ravens,247,1,1,0,0,0,45,0,0,QB
+2024-09-15,Los Angeles Chargers,Carolina Panthers,justin herbert,Los Angeles Chargers,130,2,1,0,0,0,18,0,1,QB
+2024-09-15,Los Angeles Chargers,Carolina Panthers,bryce young,Carolina Panthers,84,0,1,0,0,0,6,0,0,QB
+2024-09-15,Los Angeles Rams,Arizona Cardinals,matthew stafford,Los Angeles Rams,216,0,0,0,0,0,0,0,1,QB
+2024-09-15,Los Angeles Rams,Arizona Cardinals,kyler murray,Arizona Cardinals,266,3,0,0,0,0,59,0,0,QB
+2024-09-15,Los Angeles Rams,Arizona Cardinals,clayton tune,Arizona Cardinals,0,0,0,0,0,0,-6,0,1,QB
+2024-09-15,New Orleans Saints,Dallas Cowboys,derek carr,New Orleans Saints,243,2,1,0,0,0,1,1,0,QB
+2024-09-15,New Orleans Saints,Dallas Cowboys,jake haener,New Orleans Saints,0,0,0,0,0,0,-3,0,0,QB
+2024-09-15,New Orleans Saints,Dallas Cowboys,dak prescott,Dallas Cowboys,293,1,2,0,0,0,12,0,0,QB
+2024-09-15,New Orleans Saints,Dallas Cowboys,cooper rush,Dallas Cowboys,6,0,0,0,0,0,0,0,0,QB
+2024-09-15,New York Giants,Washington Commanders,daniel jones,New York Giants,178,2,0,0,0,0,32,0,0,QB
+2024-09-15,New York Giants,Washington Commanders,jayden daniels,Washington Commanders,226,0,0,0,0,0,44,0,0,QB
+2024-09-15,New York Jets,Tennessee Titans,aaron rodgers,New York Jets,176,2,0,0,0,0,1,0,0,QB
+2024-09-15,New York Jets,Tennessee Titans,will levis,Tennessee Titans,192,1,1,0,0,0,38,0,1,QB
+2024-09-15,Pittsburgh Steelers,Denver Broncos,justin fields,Pittsburgh Steelers,117,1,0,0,0,0,27,0,0,QB
+2024-09-15,Pittsburgh Steelers,Denver Broncos,bo nix,Denver Broncos,246,0,2,0,0,0,25,0,0,QB
+2024-09-15,San Francisco 49ers,Minnesota Vikings,brock purdy,San Francisco 49ers,319,1,1,0,0,0,12,0,1,QB
+2024-09-15,San Francisco 49ers,Minnesota Vikings,sam darnold,Minnesota Vikings,268,2,1,0,0,0,32,0,0,QB
+2024-09-15,Seattle Seahawks,New England Patriots,geno smith,Seattle Seahawks,327,1,0,0,0,0,8,0,0,QB
+2024-09-15,Seattle Seahawks,New England Patriots,jacoby brissett,New England Patriots,149,1,0,0,0,0,6,0,0,QB
+2024-09-15,Tampa Bay Buccaneers,Detroit Lions,baker mayfield,Tampa Bay Buccaneers,185,1,1,0,0,0,34,1,0,QB
+2024-09-15,Tampa Bay Buccaneers,Detroit Lions,jared goff,Detroit Lions,307,0,2,0,0,0,5,0,0,QB
+2024-09-16,Atlanta Falcons,Philadelphia Eagles,kirk cousins,Atlanta Falcons,241,2,0,0,0,0,-1,0,0,QB
+2024-09-16,Atlanta Falcons,Philadelphia Eagles,jalen hurts,Philadelphia Eagles,183,1,1,0,0,0,85,1,0,QB
+2024-09-19,New England Patriots,New York Jets,jacoby brissett,New England Patriots,98,0,0,0,0,0,0,0,0,QB
+2024-09-19,New England Patriots,New York Jets,drake maye,New England Patriots,22,0,0,0,0,0,12,0,0,QB
+2024-09-19,New England Patriots,New York Jets,aaron rodgers,New York Jets,281,2,0,0,0,0,18,0,0,QB
+2024-09-22,Baltimore Ravens,Dallas Cowboys,lamar jackson,Baltimore Ravens,182,1,0,0,0,0,87,1,0,QB
+2024-09-22,Baltimore Ravens,Dallas Cowboys,dak prescott,Dallas Cowboys,379,2,0,0,0,0,7,1,0,QB
+2024-09-22,Carolina Panthers,Las Vegas Raiders,andy dalton,Carolina Panthers,319,3,0,0,0,0,-2,0,0,QB
+2024-09-22,Carolina Panthers,Las Vegas Raiders,aidan o'connell,Las Vegas Raiders,82,1,0,0,0,0,0,0,0,QB
+2024-09-22,Chicago Bears,Indianapolis Colts,caleb williams,Chicago Bears,363,2,2,0,0,0,8,0,1,QB
+2024-09-22,Chicago Bears,Indianapolis Colts,anthony richardson,Indianapolis Colts,167,0,2,0,0,0,24,0,0,QB
+2024-09-22,Denver Broncos,Tampa Bay Buccaneers,bo nix,Denver Broncos,216,0,0,0,0,0,47,1,0,QB
+2024-09-22,Denver Broncos,Tampa Bay Buccaneers,baker mayfield,Tampa Bay Buccaneers,163,1,1,0,0,0,0,0,0,QB
+2024-09-22,Detroit Lions,Arizona Cardinals,jared goff,Detroit Lions,199,2,1,0,0,0,6,0,0,QB
+2024-09-22,Detroit Lions,Arizona Cardinals,kyler murray,Arizona Cardinals,207,1,1,0,0,0,45,0,0,QB
+2024-09-22,Green Bay Packers,Tennessee Titans,malik willis,Green Bay Packers,202,1,0,0,0,0,73,1,0,QB
+2024-09-22,Green Bay Packers,Tennessee Titans,will levis,Tennessee Titans,260,2,2,0,0,0,12,0,1,QB
+2024-09-22,Houston Texans,Minnesota Vikings,c.j. stroud,Houston Texans,215,1,2,0,0,0,12,0,0,QB
+2024-09-22,Houston Texans,Minnesota Vikings,davis mills,Houston Texans,79,0,0,0,0,0,0,0,0,QB
+2024-09-22,Houston Texans,Minnesota Vikings,sam darnold,Minnesota Vikings,181,4,0,0,0,0,0,0,0,QB
+2024-09-22,Houston Texans,Minnesota Vikings,nick mullens,Minnesota Vikings,0,0,0,0,0,0,0,0,0,QB
+2024-09-22,Kansas City Chiefs,Atlanta Falcons,patrick mahomes,Kansas City Chiefs,217,2,1,0,0,0,17,0,0,QB
+2024-09-22,Kansas City Chiefs,Atlanta Falcons,kirk cousins,Atlanta Falcons,230,1,1,0,0,0,-1,0,0,QB
+2024-09-22,Los Angeles Chargers,Pittsburgh Steelers,justin herbert,Los Angeles Chargers,125,1,0,0,0,0,0,0,0,QB
+2024-09-22,Los Angeles Chargers,Pittsburgh Steelers,taylor heinicke,Los Angeles Chargers,24,0,0,0,0,0,0,0,0,QB
+2024-09-22,Los Angeles Chargers,Pittsburgh Steelers,justin fields,Pittsburgh Steelers,245,1,1,0,0,0,6,1,0,QB
+2024-09-22,Miami Dolphins,Seattle Seahawks,skylar thompson,Miami Dolphins,107,0,0,0,0,0,0,0,0,QB
+2024-09-22,Miami Dolphins,Seattle Seahawks,geno smith,Seattle Seahawks,289,1,2,0,0,0,-2,0,0,QB
+2024-09-22,New York Giants,Cleveland Browns,daniel jones,New York Giants,236,2,0,0,0,0,20,0,0,QB
+2024-09-22,New York Giants,Cleveland Browns,deshaun watson,Cleveland Browns,196,2,0,0,0,0,26,0,2,QB
+2024-09-22,New York Giants,Cleveland Browns,jameis winston,Cleveland Browns,0,0,0,0,0,0,1,0,0,QB
+2024-09-22,Philadelphia Eagles,New Orleans Saints,jalen hurts,Philadelphia Eagles,311,0,1,0,0,0,25,0,1,QB
+2024-09-22,Philadelphia Eagles,New Orleans Saints,derek carr,New Orleans Saints,142,1,1,0,0,0,3,0,0,QB
+2024-09-22,San Francisco 49ers,Los Angeles Rams,brock purdy,San Francisco 49ers,292,3,0,0,0,0,41,0,1,QB
+2024-09-22,San Francisco 49ers,Los Angeles Rams,matthew stafford,Los Angeles Rams,221,1,0,0,0,0,0,0,0,QB
+2024-09-23,Jacksonville Jaguars,Buffalo Bills,trevor lawrence,Jacksonville Jaguars,178,1,1,0,0,0,3,0,0,QB
+2024-09-23,Jacksonville Jaguars,Buffalo Bills,mac jones,Jacksonville Jaguars,22,0,0,0,0,0,0,0,1,QB
+2024-09-23,Jacksonville Jaguars,Buffalo Bills,josh allen,Buffalo Bills,263,4,0,0,0,0,44,0,0,QB
+2024-09-23,Jacksonville Jaguars,Buffalo Bills,mitchell trubisky,Buffalo Bills,3,0,0,0,0,0,-1,0,0,QB
+2024-09-23,Washington Commanders,Cincinnati Bengals,jayden daniels,Washington Commanders,254,2,0,0,0,0,39,1,0,QB
+2024-09-23,Washington Commanders,Cincinnati Bengals,joe burrow,Cincinnati Bengals,324,3,0,0,0,0,4,0,0,QB
+2024-09-26,Dallas Cowboys,New York Giants,dak prescott,Dallas Cowboys,221,2,0,0,0,0,-1,0,0,QB
+2024-09-26,Dallas Cowboys,New York Giants,daniel jones,New York Giants,281,0,1,0,0,0,3,0,0,QB
+2024-09-29,Buffalo Bills,Baltimore Ravens,josh allen,Buffalo Bills,180,0,0,0,0,0,21,0,1,QB
+2024-09-29,Buffalo Bills,Baltimore Ravens,mitchell trubisky,Buffalo Bills,2,0,0,0,0,0,0,0,0,QB
+2024-09-29,Buffalo Bills,Baltimore Ravens,lamar jackson,Baltimore Ravens,156,2,0,0,0,0,54,1,1,QB
+2024-09-29,Buffalo Bills,Baltimore Ravens,josh johnson,Baltimore Ravens,1,0,0,0,0,0,0,0,0,QB
+2024-09-29,Cincinnati Bengals,Carolina Panthers,joe burrow,Cincinnati Bengals,232,2,1,0,0,0,10,0,0,QB
+2024-09-29,Cincinnati Bengals,Carolina Panthers,andy dalton,Carolina Panthers,220,2,1,0,0,0,9,0,0,QB
+2024-09-29,Cleveland Browns,Las Vegas Raiders,deshaun watson,Cleveland Browns,176,1,1,0,0,0,32,0,0,QB
+2024-09-29,Denver Broncos,New York Jets,bo nix,Denver Broncos,60,1,0,0,0,0,3,0,0,QB
+2024-09-29,Denver Broncos,New York Jets,aaron rodgers,New York Jets,225,0,0,0,0,0,26,0,0,QB
+2024-09-29,Jacksonville Jaguars,Houston Texans,trevor lawrence,Jacksonville Jaguars,169,2,0,0,-5,0,5,0,0,QB
+2024-09-29,Jacksonville Jaguars,Houston Texans,c.j. stroud,Houston Texans,345,2,0,0,0,0,17,0,0,QB
+2024-09-29,Kansas City Chiefs,Los Angeles Chargers,patrick mahomes,Kansas City Chiefs,245,1,1,0,0,0,12,0,0,QB
+2024-09-29,Kansas City Chiefs,Los Angeles Chargers,justin herbert,Los Angeles Chargers,179,1,0,0,0,0,0,0,0,QB
+2024-09-29,Los Angeles Rams,Chicago Bears,matthew stafford,Los Angeles Rams,224,0,1,0,0,0,-1,0,1,QB
+2024-09-29,Los Angeles Rams,Chicago Bears,caleb williams,Chicago Bears,157,1,0,0,0,0,12,0,0,QB
+2024-09-29,Minnesota Vikings,Green Bay Packers,sam darnold,Minnesota Vikings,275,3,1,0,0,0,15,0,1,QB
+2024-09-29,Minnesota Vikings,Green Bay Packers,jordan love,Green Bay Packers,389,4,3,0,0,0,6,0,0,QB
+2024-09-29,New England Patriots,San Francisco 49ers,jacoby brissett,New England Patriots,168,1,1,0,0,0,3,0,1,QB
+2024-09-29,New England Patriots,San Francisco 49ers,brock purdy,San Francisco 49ers,288,1,1,0,0,0,11,0,0,QB
+2024-09-29,New Orleans Saints,Atlanta Falcons,derek carr,New Orleans Saints,239,0,1,0,0,0,5,0,0,QB
+2024-09-29,New Orleans Saints,Atlanta Falcons,kirk cousins,Atlanta Falcons,238,0,1,0,0,0,0,0,0,QB
+2024-09-29,Philadelphia Eagles,Tampa Bay Buccaneers,jalen hurts,Philadelphia Eagles,158,1,0,0,0,0,20,1,1,QB
+2024-09-29,Philadelphia Eagles,Tampa Bay Buccaneers,baker mayfield,Tampa Bay Buccaneers,347,2,0,0,0,0,10,1,0,QB
+2024-09-29,Pittsburgh Steelers,Indianapolis Colts,justin fields,Pittsburgh Steelers,312,1,0,0,0,0,55,2,1,QB
+2024-09-29,Pittsburgh Steelers,Indianapolis Colts,joe flacco,Indianapolis Colts,168,2,0,0,0,0,3,0,0,QB
+2024-09-29,Pittsburgh Steelers,Indianapolis Colts,anthony richardson,Indianapolis Colts,71,0,0,0,0,0,24,0,0,QB
+2024-09-29,Washington Commanders,Arizona Cardinals,jayden daniels,Washington Commanders,233,1,1,0,0,0,47,1,0,QB
+2024-09-29,Washington Commanders,Arizona Cardinals,kyler murray,Arizona Cardinals,142,1,0,0,0,0,3,0,0,QB
+2024-09-30,Seattle Seahawks,Detroit Lions,geno smith,Seattle Seahawks,395,1,1,0,0,0,38,0,0,QB
+2024-09-30,Seattle Seahawks,Detroit Lions,jared goff,Detroit Lions,292,2,0,1,7,1,-2,0,0,QB
+2024-09-30,Tennessee Titans,Miami Dolphins,mason rudolph,Tennessee Titans,85,0,0,0,0,0,0,0,0,QB
+2024-09-30,Tennessee Titans,Miami Dolphins,will levis,Tennessee Titans,25,0,1,0,0,0,5,0,0,QB
+2024-09-30,Tennessee Titans,Miami Dolphins,tyler huntley,Miami Dolphins,96,0,0,0,0,0,40,1,1,QB
+2024-10-03,Tampa Bay Buccaneers,Atlanta Falcons,baker mayfield,Tampa Bay Buccaneers,180,3,0,0,0,0,42,0,0,QB
+2024-10-03,Tampa Bay Buccaneers,Atlanta Falcons,kirk cousins,Atlanta Falcons,509,4,1,0,0,0,0,0,0,QB
+2024-10-06,Arizona Cardinals,San Francisco 49ers,kyler murray,Arizona Cardinals,195,1,1,0,0,0,83,1,0,QB
+2024-10-06,Arizona Cardinals,San Francisco 49ers,brock purdy,San Francisco 49ers,244,1,2,0,0,0,33,0,0,QB
+2024-10-06,Baltimore Ravens,Cincinnati Bengals,lamar jackson,Baltimore Ravens,348,4,0,0,0,0,55,0,1,QB
+2024-10-06,Baltimore Ravens,Cincinnati Bengals,joe burrow,Cincinnati Bengals,392,5,1,0,0,0,1,0,0,QB
+2024-10-06,Buffalo Bills,Houston Texans,josh allen,Buffalo Bills,131,1,0,0,0,0,54,0,0,QB
+2024-10-06,Buffalo Bills,Houston Texans,c.j. stroud,Houston Texans,331,1,1,0,0,0,27,0,1,QB
+2024-10-06,Carolina Panthers,Chicago Bears,andy dalton,Carolina Panthers,136,0,1,0,0,0,3,0,0,QB
+2024-10-06,Carolina Panthers,Chicago Bears,bryce young,Carolina Panthers,58,0,0,0,0,0,8,0,0,QB
+2024-10-06,Carolina Panthers,Chicago Bears,caleb williams,Chicago Bears,304,2,0,0,0,0,34,0,0,QB
+2024-10-06,Carolina Panthers,Chicago Bears,tyson bagent,Chicago Bears,0,0,0,0,0,0,-4,0,0,QB
+2024-10-06,Cleveland Browns,Washington Commanders,deshaun watson,Cleveland Browns,125,1,0,0,0,0,14,0,1,QB
+2024-10-06,Cleveland Browns,Washington Commanders,jameis winston,Cleveland Browns,16,0,0,0,0,0,-3,0,0,QB
+2024-10-06,Cleveland Browns,Washington Commanders,jayden daniels,Washington Commanders,238,1,1,0,0,0,82,0,0,QB
+2024-10-06,Cleveland Browns,Washington Commanders,marcus mariota,Washington Commanders,-2,0,0,0,0,0,2,0,0,QB
+2024-10-06,Dallas Cowboys,Pittsburgh Steelers,dak prescott,Dallas Cowboys,352,2,2,0,0,0,3,0,1,QB
+2024-10-06,Dallas Cowboys,Pittsburgh Steelers,justin fields,Pittsburgh Steelers,131,2,0,0,0,0,27,0,0,QB
+2024-10-06,Dallas Cowboys,Pittsburgh Steelers,kyle allen,Pittsburgh Steelers,19,0,0,0,0,0,0,0,0,QB
+2024-10-06,Green Bay Packers,Los Angeles Rams,jordan love,Green Bay Packers,224,2,1,0,0,0,10,0,0,QB
+2024-10-06,Green Bay Packers,Los Angeles Rams,matthew stafford,Los Angeles Rams,260,1,1,0,0,0,0,0,0,QB
+2024-10-06,Indianapolis Colts,Jacksonville Jaguars,joe flacco,Indianapolis Colts,359,3,0,0,0,0,22,0,1,QB
+2024-10-06,Indianapolis Colts,Jacksonville Jaguars,trevor lawrence,Jacksonville Jaguars,371,2,1,0,0,0,4,0,0,QB
+2024-10-06,Las Vegas Raiders,Denver Broncos,aidan o'connell,Las Vegas Raiders,94,0,1,0,0,0,0,0,0,QB
+2024-10-06,Las Vegas Raiders,Denver Broncos,bo nix,Denver Broncos,206,2,0,0,0,0,9,1,0,QB
+2024-10-06,Miami Dolphins,New England Patriots,tyler huntley,Miami Dolphins,194,0,1,0,0,0,7,0,0,QB
+2024-10-06,Miami Dolphins,New England Patriots,jacoby brissett,New England Patriots,160,0,0,0,0,0,10,0,0,QB
+2024-10-06,New York Giants,Seattle Seahawks,daniel jones,New York Giants,257,2,0,0,0,0,38,0,0,QB
+2024-10-06,New York Giants,Seattle Seahawks,geno smith,Seattle Seahawks,284,1,0,0,0,0,72,0,0,QB
+2024-10-06,New York Jets,Minnesota Vikings,aaron rodgers,New York Jets,244,2,3,0,0,0,0,0,0,QB
+2024-10-06,New York Jets,Minnesota Vikings,sam darnold,Minnesota Vikings,179,0,1,0,0,0,11,0,1,QB
+2024-10-06,New York Jets,Minnesota Vikings,nick mullens,Minnesota Vikings,24,0,0,0,0,0,0,0,0,QB
+2024-10-07,New Orleans Saints,Kansas City Chiefs,derek carr,New Orleans Saints,165,2,1,0,0,0,0,0,0,QB
+2024-10-07,New Orleans Saints,Kansas City Chiefs,jake haener,New Orleans Saints,17,0,0,0,0,0,11,0,0,QB
+2024-10-07,New Orleans Saints,Kansas City Chiefs,patrick mahomes,Kansas City Chiefs,331,0,1,0,0,0,22,0,0,QB
+2024-10-10,San Francisco 49ers,Seattle Seahawks,brock purdy,San Francisco 49ers,255,3,0,0,0,0,19,0,0,QB
+2024-10-10,San Francisco 49ers,Seattle Seahawks,geno smith,Seattle Seahawks,312,1,2,0,0,0,0,0,0,QB
+2024-10-13,Arizona Cardinals,Green Bay Packers,kyler murray,Arizona Cardinals,214,1,0,0,0,0,14,0,1,QB
+2024-10-13,Arizona Cardinals,Green Bay Packers,jordan love,Green Bay Packers,258,4,1,0,0,0,13,0,0,QB
+2024-10-13,Atlanta Falcons,Carolina Panthers,kirk cousins,Atlanta Falcons,225,1,0,0,0,0,-5,0,0,QB
+2024-10-13,Atlanta Falcons,Carolina Panthers,andy dalton,Carolina Panthers,221,2,2,0,0,0,21,0,0,QB
+2024-10-13,Cincinnati Bengals,New York Giants,joe burrow,Cincinnati Bengals,208,0,0,0,0,0,55,1,0,QB
+2024-10-13,Cincinnati Bengals,New York Giants,daniel jones,New York Giants,205,0,1,0,0,0,56,0,0,QB
+2024-10-13,Cleveland Browns,Philadelphia Eagles,deshaun watson,Cleveland Browns,168,0,0,0,0,0,17,0,0,QB
+2024-10-13,Cleveland Browns,Philadelphia Eagles,jalen hurts,Philadelphia Eagles,264,2,0,0,0,0,33,0,0,QB
+2024-10-13,Detroit Lions,Dallas Cowboys,jared goff,Detroit Lions,315,3,0,0,0,0,5,0,0,QB
+2024-10-13,Detroit Lions,Dallas Cowboys,hendon hooker,Detroit Lions,19,0,0,0,0,0,-1,0,0,QB
+2024-10-13,Detroit Lions,Dallas Cowboys,dak prescott,Dallas Cowboys,178,0,2,0,0,0,1,0,0,QB
+2024-10-13,Detroit Lions,Dallas Cowboys,cooper rush,Dallas Cowboys,46,0,1,0,0,0,2,0,0,QB
+2024-10-13,Houston Texans,New England Patriots,c.j. stroud,Houston Texans,192,3,1,0,0,0,7,0,0,QB
+2024-10-13,Houston Texans,New England Patriots,davis mills,Houston Texans,0,0,0,0,0,0,0,0,0,QB
+2024-10-13,Houston Texans,New England Patriots,drake maye,New England Patriots,243,3,2,0,0,0,38,0,1,QB
+2024-10-13,Indianapolis Colts,Tennessee Titans,joe flacco,Indianapolis Colts,189,2,1,0,0,0,1,0,0,QB
+2024-10-13,Indianapolis Colts,Tennessee Titans,will levis,Tennessee Titans,95,1,1,0,0,0,15,0,0,QB
+2024-10-13,Jacksonville Jaguars,Chicago Bears,trevor lawrence,Jacksonville Jaguars,234,2,1,0,0,0,17,0,0,QB
+2024-10-13,Jacksonville Jaguars,Chicago Bears,mac jones,Jacksonville Jaguars,6,0,0,0,0,0,0,0,0,QB
+2024-10-13,Jacksonville Jaguars,Chicago Bears,caleb williams,Chicago Bears,226,4,1,0,0,0,56,0,0,QB
+2024-10-13,Jacksonville Jaguars,Chicago Bears,tyson bagent,Chicago Bears,0,0,0,0,0,0,-3,0,0,QB
+2024-10-13,Los Angeles Chargers,Denver Broncos,justin herbert,Los Angeles Chargers,237,1,0,0,0,0,2,0,0,QB
+2024-10-13,Los Angeles Chargers,Denver Broncos,bo nix,Denver Broncos,216,2,1,0,0,0,61,0,0,QB
+2024-10-13,Pittsburgh Steelers,Las Vegas Raiders,justin fields,Pittsburgh Steelers,145,0,0,0,0,0,59,2,0,QB
+2024-10-13,Pittsburgh Steelers,Las Vegas Raiders,aidan o'connell,Las Vegas Raiders,227,1,1,0,0,0,0,0,0,QB
+2024-10-13,Tampa Bay Buccaneers,New Orleans Saints,baker mayfield,Tampa Bay Buccaneers,325,4,3,0,0,0,29,0,0,QB
+2024-10-13,Tampa Bay Buccaneers,New Orleans Saints,spencer rattler,New Orleans Saints,243,1,2,0,0,0,27,0,0,QB
+2024-10-13,Washington Commanders,Baltimore Ravens,jayden daniels,Washington Commanders,269,2,0,0,0,0,22,0,0,QB
+2024-10-13,Washington Commanders,Baltimore Ravens,lamar jackson,Baltimore Ravens,323,1,1,0,0,0,40,0,0,QB
+2024-10-14,Buffalo Bills,New York Jets,josh allen,Buffalo Bills,215,2,0,0,0,0,18,1,0,QB
+2024-10-14,Buffalo Bills,New York Jets,aaron rodgers,New York Jets,294,2,1,0,0,0,0,0,0,QB
+2024-10-17,Denver Broncos,New Orleans Saints,bo nix,Denver Broncos,164,0,0,0,0,0,75,0,0,QB
+2024-10-17,Denver Broncos,New Orleans Saints,jarrett stidham,Denver Broncos,0,0,0,0,0,0,-2,0,0,QB
+2024-10-17,Denver Broncos,New Orleans Saints,spencer rattler,New Orleans Saints,172,0,0,0,0,0,34,0,2,QB
+2024-10-17,Denver Broncos,New Orleans Saints,jake haener,New Orleans Saints,38,1,0,0,0,0,0,0,0,QB
+2024-10-20,Carolina Panthers,Washington Commanders,andy dalton,Carolina Panthers,93,0,2,0,0,0,3,0,0,QB
+2024-10-20,Carolina Panthers,Washington Commanders,bryce young,Carolina Panthers,-4,0,0,0,0,0,0,0,0,QB
+2024-10-20,Carolina Panthers,Washington Commanders,marcus mariota,Washington Commanders,205,2,0,0,0,0,34,0,0,QB
+2024-10-20,Carolina Panthers,Washington Commanders,jayden daniels,Washington Commanders,6,0,0,0,0,0,50,0,0,QB
+2024-10-20,Cincinnati Bengals,Cleveland Browns,joe burrow,Cincinnati Bengals,181,2,0,0,0,0,-3,0,0,QB
+2024-10-20,Cincinnati Bengals,Cleveland Browns,dorian thompson-robinson,Cleveland Browns,82,0,2,0,0,0,44,0,0,QB
+2024-10-20,Cincinnati Bengals,Cleveland Browns,deshaun watson,Cleveland Browns,128,0,0,0,0,0,0,0,0,QB
+2024-10-20,Cincinnati Bengals,Cleveland Browns,jameis winston,Cleveland Browns,67,1,0,0,0,0,0,0,0,QB
+2024-10-20,Detroit Lions,Minnesota Vikings,jared goff,Detroit Lions,280,2,0,0,0,0,-4,0,0,QB
+2024-10-20,Detroit Lions,Minnesota Vikings,sam darnold,Minnesota Vikings,259,1,1,0,0,0,39,0,0,QB
+2024-10-20,Houston Texans,Green Bay Packers,c.j. stroud,Houston Texans,86,0,0,0,0,0,19,0,0,QB
+2024-10-20,Houston Texans,Green Bay Packers,jordan love,Green Bay Packers,220,3,2,0,0,0,0,0,0,QB
+2024-10-20,Kansas City Chiefs,San Francisco 49ers,patrick mahomes,Kansas City Chiefs,154,0,2,0,0,0,39,1,0,QB
+2024-10-20,Kansas City Chiefs,San Francisco 49ers,brock purdy,San Francisco 49ers,212,0,3,0,0,0,27,2,0,QB
+2024-10-20,Las Vegas Raiders,Los Angeles Rams,aidan o'connell,Las Vegas Raiders,52,0,0,0,0,0,0,0,0,QB
+2024-10-20,Las Vegas Raiders,Los Angeles Rams,matthew stafford,Los Angeles Rams,154,0,1,0,0,0,-2,0,0,QB
+2024-10-20,Miami Dolphins,Indianapolis Colts,tyler huntley,Miami Dolphins,87,1,0,0,0,0,20,0,0,QB
+2024-10-20,Miami Dolphins,Indianapolis Colts,anthony richardson,Indianapolis Colts,129,0,0,0,0,0,56,0,1,QB
+2024-10-20,New England Patriots,Jacksonville Jaguars,drake maye,New England Patriots,276,2,0,0,0,0,18,0,0,QB
+2024-10-20,New England Patriots,Jacksonville Jaguars,trevor lawrence,Jacksonville Jaguars,193,1,0,0,0,0,13,0,0,QB
+2024-10-20,New York Jets,Pittsburgh Steelers,aaron rodgers,New York Jets,276,1,2,0,0,0,0,0,0,QB
+2024-10-20,New York Jets,Pittsburgh Steelers,russell wilson,Pittsburgh Steelers,264,2,0,0,0,0,3,1,0,QB
+2024-10-20,Philadelphia Eagles,New York Giants,jalen hurts,Philadelphia Eagles,114,1,0,0,0,0,22,2,0,QB
+2024-10-20,Philadelphia Eagles,New York Giants,kenny pickett,Philadelphia Eagles,0,0,0,0,0,0,0,0,0,QB
+2024-10-20,Philadelphia Eagles,New York Giants,daniel jones,New York Giants,99,0,0,0,0,0,20,0,0,QB
+2024-10-20,Philadelphia Eagles,New York Giants,drew lock,New York Giants,6,0,0,0,0,0,13,0,0,QB
+2024-10-20,Seattle Seahawks,Atlanta Falcons,geno smith,Seattle Seahawks,207,2,0,0,0,0,15,0,0,QB
+2024-10-20,Seattle Seahawks,Atlanta Falcons,kirk cousins,Atlanta Falcons,232,1,2,0,0,0,-1,0,1,QB
+2024-10-20,Seattle Seahawks,Atlanta Falcons,michael penix,Atlanta Falcons,14,0,0,0,0,0,0,0,0,QB
+2024-10-20,Tennessee Titans,Buffalo Bills,mason rudolph,Tennessee Titans,215,1,1,0,0,0,13,0,1,QB
+2024-10-20,Tennessee Titans,Buffalo Bills,josh allen,Buffalo Bills,323,2,0,0,0,0,1,0,0,QB
+2024-10-21,Baltimore Ravens,Tampa Bay Buccaneers,lamar jackson,Baltimore Ravens,281,5,0,0,0,0,52,0,1,QB
+2024-10-21,Baltimore Ravens,Tampa Bay Buccaneers,baker mayfield,Tampa Bay Buccaneers,370,3,2,0,0,0,22,0,0,QB
+2024-10-21,Los Angeles Chargers,Arizona Cardinals,justin herbert,Los Angeles Chargers,349,0,0,0,0,0,8,0,0,QB
+2024-10-21,Los Angeles Chargers,Arizona Cardinals,kyler murray,Arizona Cardinals,145,1,1,0,0,0,64,1,0,QB
+2024-10-21,Los Angeles Chargers,Arizona Cardinals,clayton tune,Arizona Cardinals,0,0,0,0,0,0,2,0,0,QB
+2024-10-24,Minnesota Vikings,Los Angeles Rams,sam darnold,Minnesota Vikings,240,2,0,0,0,0,6,0,0,QB
+2024-10-24,Minnesota Vikings,Los Angeles Rams,matthew stafford,Los Angeles Rams,279,4,1,0,0,0,-4,0,0,QB
+2024-10-27,Arizona Cardinals,Miami Dolphins,kyler murray,Arizona Cardinals,307,2,0,0,0,0,19,0,0,QB
+2024-10-27,Arizona Cardinals,Miami Dolphins,tua tagovailoa,Miami Dolphins,234,1,0,0,0,0,13,0,0,QB
+2024-10-27,Atlanta Falcons,Tampa Bay Buccaneers,kirk cousins,Atlanta Falcons,276,4,0,0,0,0,16,0,0,QB
+2024-10-27,Atlanta Falcons,Tampa Bay Buccaneers,baker mayfield,Tampa Bay Buccaneers,330,3,2,0,0,0,11,0,0,QB
+2024-10-27,Baltimore Ravens,Cleveland Browns,lamar jackson,Baltimore Ravens,289,2,0,0,0,0,46,0,0,QB
+2024-10-27,Baltimore Ravens,Cleveland Browns,jameis winston,Cleveland Browns,334,3,0,0,0,0,2,0,1,QB
+2024-10-27,Buffalo Bills,Seattle Seahawks,josh allen,Buffalo Bills,283,2,1,0,0,0,25,0,0,QB
+2024-10-27,Buffalo Bills,Seattle Seahawks,mitchell trubisky,Buffalo Bills,0,0,0,0,0,0,-3,0,0,QB
+2024-10-27,Buffalo Bills,Seattle Seahawks,geno smith,Seattle Seahawks,212,0,1,0,0,0,16,0,0,QB
+2024-10-27,Carolina Panthers,Denver Broncos,bryce young,Carolina Panthers,224,2,2,0,0,0,6,0,0,QB
+2024-10-27,Carolina Panthers,Denver Broncos,bo nix,Denver Broncos,284,3,0,0,0,0,4,1,0,QB
+2024-10-27,Chicago Bears,Washington Commanders,caleb williams,Chicago Bears,131,0,0,0,0,0,47,0,1,QB
+2024-10-27,Chicago Bears,Washington Commanders,jayden daniels,Washington Commanders,326,1,0,0,0,0,52,0,0,QB
+2024-10-27,Dallas Cowboys,San Francisco 49ers,dak prescott,Dallas Cowboys,243,2,2,0,0,0,-1,0,0,QB
+2024-10-27,Dallas Cowboys,San Francisco 49ers,brock purdy,San Francisco 49ers,260,1,0,0,0,0,56,1,0,QB
+2024-10-27,Green Bay Packers,Jacksonville Jaguars,jordan love,Green Bay Packers,196,0,1,0,0,0,-1,0,0,QB
+2024-10-27,Green Bay Packers,Jacksonville Jaguars,malik willis,Green Bay Packers,56,1,0,0,0,0,23,0,0,QB
+2024-10-27,Green Bay Packers,Jacksonville Jaguars,trevor lawrence,Jacksonville Jaguars,308,2,1,0,0,0,10,1,1,QB
+2024-10-27,Indianapolis Colts,Houston Texans,anthony richardson,Indianapolis Colts,175,1,1,0,0,0,45,0,1,QB
+2024-10-27,Indianapolis Colts,Houston Texans,c.j. stroud,Houston Texans,285,1,0,0,0,0,-10,0,1,QB
+2024-10-27,Kansas City Chiefs,Las Vegas Raiders,patrick mahomes,Kansas City Chiefs,262,2,1,0,0,0,17,0,0,QB
+2024-10-27,New Orleans Saints,Los Angeles Chargers,spencer rattler,New Orleans Saints,156,0,0,0,0,0,0,0,0,QB
+2024-10-27,New Orleans Saints,Los Angeles Chargers,jake haener,New Orleans Saints,122,0,0,0,0,0,10,0,0,QB
+2024-10-27,New Orleans Saints,Los Angeles Chargers,justin herbert,Los Angeles Chargers,279,2,0,0,0,0,49,0,0,QB
+2024-10-27,New York Jets,New England Patriots,aaron rodgers,New York Jets,233,2,0,0,0,0,0,0,0,QB
+2024-10-27,New York Jets,New England Patriots,jacoby brissett,New England Patriots,132,0,0,0,0,0,11,0,0,QB
+2024-10-27,New York Jets,New England Patriots,drake maye,New England Patriots,23,0,0,0,0,0,46,1,0,QB
+2024-10-27,Philadelphia Eagles,Cincinnati Bengals,jalen hurts,Philadelphia Eagles,236,1,0,0,0,0,37,3,0,QB
+2024-10-27,Philadelphia Eagles,Cincinnati Bengals,joe burrow,Cincinnati Bengals,234,1,1,0,0,0,15,0,0,QB
+2024-10-27,Tennessee Titans,Detroit Lions,mason rudolph,Tennessee Titans,266,1,2,0,0,0,29,1,0,QB
+2024-10-27,Tennessee Titans,Detroit Lions,jared goff,Detroit Lions,85,3,0,0,0,0,1,0,0,QB
+2024-10-27,Tennessee Titans,Detroit Lions,hendon hooker,Detroit Lions,6,0,0,0,0,0,0,0,0,QB
+2024-10-28,New York Giants,Pittsburgh Steelers,daniel jones,New York Giants,264,0,1,0,0,0,1,0,1,QB
+2024-10-28,New York Giants,Pittsburgh Steelers,russell wilson,Pittsburgh Steelers,278,1,0,0,0,0,7,0,1,QB
+2024-10-31,Houston Texans,New York Jets,c.j. stroud,Houston Texans,191,0,0,0,0,0,59,0,1,QB
+2024-10-31,Houston Texans,New York Jets,aaron rodgers,New York Jets,211,3,0,0,0,0,-1,0,0,QB
+2024-11-03,Chicago Bears,Arizona Cardinals,caleb williams,Chicago Bears,217,0,0,0,0,0,5,0,0,QB
+2024-11-03,Chicago Bears,Arizona Cardinals,kyler murray,Arizona Cardinals,154,0,0,0,0,0,6,0,1,QB
+2024-11-03,Dallas Cowboys,Atlanta Falcons,cooper rush,Dallas Cowboys,115,1,0,0,0,0,4,0,0,QB
+2024-11-03,Dallas Cowboys,Atlanta Falcons,dak prescott,Dallas Cowboys,133,1,0,0,0,0,30,0,0,QB
+2024-11-03,Dallas Cowboys,Atlanta Falcons,kirk cousins,Atlanta Falcons,222,3,0,0,0,0,-11,0,1,QB
+2024-11-03,Denver Broncos,Baltimore Ravens,bo nix,Denver Broncos,223,0,1,1,2,1,36,0,0,QB
+2024-11-03,Denver Broncos,Baltimore Ravens,lamar jackson,Baltimore Ravens,280,3,0,0,0,0,4,0,0,QB
+2024-11-03,Denver Broncos,Baltimore Ravens,josh johnson,Baltimore Ravens,0,0,0,0,0,0,2,0,0,QB
+2024-11-03,Detroit Lions,Green Bay Packers,jared goff,Detroit Lions,145,1,0,0,0,0,-2,0,0,QB
+2024-11-03,Detroit Lions,Green Bay Packers,jordan love,Green Bay Packers,273,0,1,0,0,0,0,0,0,QB
+2024-11-03,Indianapolis Colts,Minnesota Vikings,joe flacco,Indianapolis Colts,179,0,1,0,0,0,-1,0,1,QB
+2024-11-03,Indianapolis Colts,Minnesota Vikings,sam darnold,Minnesota Vikings,290,3,2,0,0,0,14,0,1,QB
+2024-11-03,Jacksonville Jaguars,Philadelphia Eagles,trevor lawrence,Jacksonville Jaguars,169,0,2,0,0,0,8,2,0,QB
+2024-11-03,Jacksonville Jaguars,Philadelphia Eagles,jalen hurts,Philadelphia Eagles,230,2,0,0,0,0,67,1,0,QB
+2024-11-03,Las Vegas Raiders,Cincinnati Bengals,desmond ridder,Las Vegas Raiders,74,1,0,0,0,0,2,0,1,QB
+2024-11-03,Las Vegas Raiders,Cincinnati Bengals,joe burrow,Cincinnati Bengals,251,5,1,0,0,0,11,0,0,QB
+2024-11-03,Las Vegas Raiders,Cincinnati Bengals,jake browning,Cincinnati Bengals,0,0,0,0,0,0,-1,0,0,QB
+2024-11-03,Los Angeles Chargers,Cleveland Browns,justin herbert,Los Angeles Chargers,282,2,0,0,0,0,2,0,0,QB
+2024-11-03,Los Angeles Chargers,Cleveland Browns,jameis winston,Cleveland Browns,235,1,3,0,0,0,27,0,0,QB
+2024-11-03,Los Angeles Rams,Seattle Seahawks,matthew stafford,Los Angeles Rams,298,2,1,0,0,0,0,0,0,QB
+2024-11-03,Los Angeles Rams,Seattle Seahawks,geno smith,Seattle Seahawks,363,3,3,0,0,0,16,0,0,QB
+2024-11-03,Miami Dolphins,Buffalo Bills,tua tagovailoa,Miami Dolphins,231,2,0,0,0,0,3,0,0,QB
+2024-11-03,Miami Dolphins,Buffalo Bills,josh allen,Buffalo Bills,235,3,1,0,0,0,7,0,0,QB
+2024-11-03,New England Patriots,Tennessee Titans,drake maye,New England Patriots,206,1,2,0,0,0,95,0,1,QB
+2024-11-03,New England Patriots,Tennessee Titans,mason rudolph,Tennessee Titans,240,2,1,0,0,0,19,0,0,QB
+2024-11-03,New Orleans Saints,Carolina Panthers,derek carr,New Orleans Saints,236,1,0,0,0,0,0,0,0,QB
+2024-11-03,New Orleans Saints,Carolina Panthers,bryce young,Carolina Panthers,171,1,1,0,0,0,9,0,0,QB
+2024-11-03,Washington Commanders,New York Giants,jayden daniels,Washington Commanders,209,2,0,0,0,0,35,0,0,QB
+2024-11-03,Washington Commanders,New York Giants,daniel jones,New York Giants,174,2,0,0,0,0,54,1,1,QB
+2024-11-04,Tampa Bay Buccaneers,Kansas City Chiefs,baker mayfield,Tampa Bay Buccaneers,200,2,0,0,0,0,20,0,0,QB
+2024-11-04,Tampa Bay Buccaneers,Kansas City Chiefs,patrick mahomes,Kansas City Chiefs,291,3,0,0,0,0,9,0,0,QB
+2024-11-07,Cincinnati Bengals,Baltimore Ravens,joe burrow,Cincinnati Bengals,428,4,0,0,0,0,6,0,0,QB
+2024-11-07,Cincinnati Bengals,Baltimore Ravens,lamar jackson,Baltimore Ravens,290,4,0,0,0,0,33,0,0,QB
+2024-11-10,Atlanta Falcons,New Orleans Saints,kirk cousins,Atlanta Falcons,306,0,1,0,0,0,0,0,0,QB
+2024-11-10,Atlanta Falcons,New Orleans Saints,derek carr,New Orleans Saints,269,2,0,0,0,0,17,0,0,QB
+2024-11-10,Buffalo Bills,Indianapolis Colts,josh allen,Buffalo Bills,280,0,2,0,0,0,50,1,0,QB
+2024-11-10,Buffalo Bills,Indianapolis Colts,mitchell trubisky,Buffalo Bills,0,0,0,0,0,0,-1,0,0,QB
+2024-11-10,Buffalo Bills,Indianapolis Colts,joe flacco,Indianapolis Colts,272,2,3,0,0,0,0,0,1,QB
+2024-11-10,Denver Broncos,Kansas City Chiefs,bo nix,Denver Broncos,215,2,0,0,0,0,-5,0,0,QB
+2024-11-10,Denver Broncos,Kansas City Chiefs,patrick mahomes,Kansas City Chiefs,266,1,0,0,0,0,19,0,0,QB
+2024-11-10,Detroit Lions,Houston Texans,jared goff,Detroit Lions,240,2,5,0,0,0,2,0,0,QB
+2024-11-10,Detroit Lions,Houston Texans,c.j. stroud,Houston Texans,232,1,2,0,0,0,5,0,0,QB
+2024-11-10,Minnesota Vikings,Jacksonville Jaguars,sam darnold,Minnesota Vikings,241,0,3,0,0,0,28,0,0,QB
+2024-11-10,Minnesota Vikings,Jacksonville Jaguars,mac jones,Jacksonville Jaguars,111,0,2,0,0,0,8,1,1,QB
+2024-11-10,New England Patriots,Chicago Bears,drake maye,New England Patriots,184,1,1,0,0,0,24,0,0,QB
+2024-11-10,New England Patriots,Chicago Bears,caleb williams,Chicago Bears,120,0,0,0,0,0,15,0,0,QB
+2024-11-10,New York Giants,Carolina Panthers,daniel jones,New York Giants,190,0,2,0,0,0,26,1,0,QB
+2024-11-10,New York Giants,Carolina Panthers,bryce young,Carolina Panthers,126,1,0,0,0,0,30,0,0,QB
+2024-11-10,New York Jets,Arizona Cardinals,aaron rodgers,New York Jets,151,0,0,0,0,0,0,0,1,QB
+2024-11-10,New York Jets,Arizona Cardinals,kyler murray,Arizona Cardinals,266,1,0,0,0,0,21,2,0,QB
+2024-11-10,New York Jets,Arizona Cardinals,clayton tune,Arizona Cardinals,0,0,0,0,0,0,-1,0,0,QB
+2024-11-10,Philadelphia Eagles,Dallas Cowboys,jalen hurts,Philadelphia Eagles,202,2,1,0,0,0,56,2,1,QB
+2024-11-10,Philadelphia Eagles,Dallas Cowboys,kenny pickett,Philadelphia Eagles,5,0,0,0,0,0,1,0,0,QB
+2024-11-10,Philadelphia Eagles,Dallas Cowboys,cooper rush,Dallas Cowboys,45,0,0,0,0,0,2,0,2,QB
+2024-11-10,Philadelphia Eagles,Dallas Cowboys,trey lance,Dallas Cowboys,21,0,1,0,0,0,17,0,0,QB
+2024-11-10,Pittsburgh Steelers,Washington Commanders,russell wilson,Pittsburgh Steelers,195,3,1,0,0,0,3,0,0,QB
+2024-11-10,Pittsburgh Steelers,Washington Commanders,jayden daniels,Washington Commanders,202,0,0,0,0,0,5,0,0,QB
+2024-11-10,San Francisco 49ers,Tampa Bay Buccaneers,brock purdy,San Francisco 49ers,353,2,0,0,0,0,17,0,0,QB
+2024-11-10,San Francisco 49ers,Tampa Bay Buccaneers,baker mayfield,Tampa Bay Buccaneers,116,1,0,0,0,0,3,0,0,QB
+2024-11-10,Tennessee Titans,Los Angeles Chargers,will levis,Tennessee Titans,175,2,0,0,0,0,41,0,0,QB
+2024-11-10,Tennessee Titans,Los Angeles Chargers,justin herbert,Los Angeles Chargers,164,1,0,0,0,0,32,1,0,QB
+2024-11-11,Miami Dolphins,Los Angeles Rams,tua tagovailoa,Miami Dolphins,207,1,1,0,0,0,-1,0,1,QB
+2024-11-11,Miami Dolphins,Los Angeles Rams,matthew stafford,Los Angeles Rams,293,0,1,0,0,0,0,0,0,QB
+2024-11-14,Washington Commanders,Philadelphia Eagles,jayden daniels,Washington Commanders,191,1,1,0,0,0,18,0,0,QB
+2024-11-14,Washington Commanders,Philadelphia Eagles,jalen hurts,Philadelphia Eagles,221,0,0,0,0,0,39,1,0,QB
+2024-11-17,Atlanta Falcons,Denver Broncos,kirk cousins,Atlanta Falcons,173,0,1,0,0,0,0,0,0,QB
+2024-11-17,Atlanta Falcons,Denver Broncos,michael penix,Atlanta Falcons,24,0,0,0,0,0,0,0,0,QB
+2024-11-17,Atlanta Falcons,Denver Broncos,bo nix,Denver Broncos,307,4,0,0,0,0,5,0,0,QB
+2024-11-17,Baltimore Ravens,Pittsburgh Steelers,lamar jackson,Baltimore Ravens,207,1,1,0,0,0,46,0,0,QB
+2024-11-17,Baltimore Ravens,Pittsburgh Steelers,russell wilson,Pittsburgh Steelers,205,0,1,0,0,0,1,0,0,QB
+2024-11-17,Baltimore Ravens,Pittsburgh Steelers,justin fields,Pittsburgh Steelers,0,0,0,0,0,0,17,0,0,QB
+2024-11-17,Cincinnati Bengals,Los Angeles Chargers,joe burrow,Cincinnati Bengals,356,3,0,0,0,0,28,0,0,QB
+2024-11-17,Cincinnati Bengals,Los Angeles Chargers,justin herbert,Los Angeles Chargers,297,2,0,0,0,0,65,0,1,QB
+2024-11-17,Cleveland Browns,New Orleans Saints,jameis winston,Cleveland Browns,395,2,0,0,0,0,8,0,0,QB
+2024-11-17,Cleveland Browns,New Orleans Saints,dorian thompson-robinson,Cleveland Browns,0,0,0,0,0,0,0,0,0,QB
+2024-11-17,Cleveland Browns,New Orleans Saints,derek carr,New Orleans Saints,248,2,0,0,0,0,8,0,0,QB
+2024-11-17,Cleveland Browns,New Orleans Saints,jake haener,New Orleans Saints,0,0,0,0,0,0,-2,0,0,QB
+2024-11-17,Green Bay Packers,Chicago Bears,jordan love,Green Bay Packers,261,1,1,0,0,0,18,1,0,QB
+2024-11-17,Green Bay Packers,Chicago Bears,caleb williams,Chicago Bears,231,0,0,0,0,0,70,0,0,QB
+2024-11-17,Indianapolis Colts,New York Jets,anthony richardson,Indianapolis Colts,272,1,0,0,0,0,32,2,1,QB
+2024-11-17,Indianapolis Colts,New York Jets,aaron rodgers,New York Jets,184,2,0,0,0,0,7,0,0,QB
+2024-11-17,Jacksonville Jaguars,Detroit Lions,mac jones,Jacksonville Jaguars,138,0,1,0,0,0,7,0,0,QB
+2024-11-17,Jacksonville Jaguars,Detroit Lions,jared goff,Detroit Lions,412,4,0,0,0,0,21,0,0,QB
+2024-11-17,Jacksonville Jaguars,Detroit Lions,hendon hooker,Detroit Lions,37,0,0,0,0,0,3,0,0,QB
+2024-11-17,Kansas City Chiefs,Buffalo Bills,patrick mahomes,Kansas City Chiefs,196,3,2,0,0,0,0,0,0,QB
+2024-11-17,Kansas City Chiefs,Buffalo Bills,josh allen,Buffalo Bills,262,1,1,0,0,0,55,1,0,QB
+2024-11-17,Las Vegas Raiders,Miami Dolphins,tua tagovailoa,Miami Dolphins,288,3,0,0,0,0,0,0,0,QB
+2024-11-17,Los Angeles Rams,New England Patriots,matthew stafford,Los Angeles Rams,295,4,0,0,0,0,0,0,0,QB
+2024-11-17,Los Angeles Rams,New England Patriots,drake maye,New England Patriots,282,2,1,0,0,0,27,0,1,QB
+2024-11-17,Minnesota Vikings,Tennessee Titans,sam darnold,Minnesota Vikings,246,2,0,0,0,0,18,1,1,QB
+2024-11-17,Minnesota Vikings,Tennessee Titans,will levis,Tennessee Titans,295,1,1,0,0,0,18,0,0,QB
+2024-11-17,Seattle Seahawks,San Francisco 49ers,geno smith,Seattle Seahawks,221,0,1,0,0,0,29,1,0,QB
+2024-11-17,Seattle Seahawks,San Francisco 49ers,brock purdy,San Francisco 49ers,159,1,1,0,0,0,40,1,0,QB
+2024-11-18,Houston Texans,Dallas Cowboys,c.j. stroud,Houston Texans,257,0,1,0,0,0,26,0,0,QB
+2024-11-18,Houston Texans,Dallas Cowboys,cooper rush,Dallas Cowboys,354,1,1,0,0,0,2,0,0,QB
+2024-11-21,Pittsburgh Steelers,Cleveland Browns,russell wilson,Pittsburgh Steelers,270,1,0,0,0,0,10,0,1,QB
+2024-11-21,Pittsburgh Steelers,Cleveland Browns,justin fields,Pittsburgh Steelers,0,0,0,0,0,0,26,0,0,QB
+2024-11-21,Pittsburgh Steelers,Cleveland Browns,jameis winston,Cleveland Browns,219,0,1,0,0,0,7,1,1,QB
+2024-11-24,Arizona Cardinals,Seattle Seahawks,kyler murray,Arizona Cardinals,285,0,1,0,0,0,9,0,0,QB
+2024-11-24,Arizona Cardinals,Seattle Seahawks,geno smith,Seattle Seahawks,254,1,1,0,0,0,2,0,0,QB
+2024-11-24,Dallas Cowboys,Washington Commanders,cooper rush,Dallas Cowboys,247,2,0,0,0,0,1,0,0,QB
+2024-11-24,Dallas Cowboys,Washington Commanders,trey lance,Dallas Cowboys,0,0,0,0,0,0,-3,0,0,QB
+2024-11-24,Dallas Cowboys,Washington Commanders,jayden daniels,Washington Commanders,275,2,2,0,0,0,74,1,0,QB
+2024-11-24,Denver Broncos,Las Vegas Raiders,bo nix,Denver Broncos,273,2,0,0,0,0,5,0,0,QB
+2024-11-24,Denver Broncos,Las Vegas Raiders,desmond ridder,Las Vegas Raiders,64,0,0,0,0,0,3,0,1,QB
+2024-11-24,Detroit Lions,Indianapolis Colts,jared goff,Detroit Lions,269,0,0,0,0,0,0,0,0,QB
+2024-11-24,Detroit Lions,Indianapolis Colts,anthony richardson,Indianapolis Colts,172,0,0,0,0,0,61,0,0,QB
+2024-11-24,Kansas City Chiefs,Carolina Panthers,patrick mahomes,Kansas City Chiefs,269,3,0,0,0,0,60,0,0,QB
+2024-11-24,Kansas City Chiefs,Carolina Panthers,bryce young,Carolina Panthers,263,1,0,0,0,0,20,0,0,QB
+2024-11-24,Minnesota Vikings,Chicago Bears,sam darnold,Minnesota Vikings,330,2,0,0,0,0,-1,0,0,QB
+2024-11-24,Minnesota Vikings,Chicago Bears,nick mullens,Minnesota Vikings,14,0,0,0,0,0,0,0,0,QB
+2024-11-24,Minnesota Vikings,Chicago Bears,caleb williams,Chicago Bears,340,2,0,0,0,0,33,0,0,QB
+2024-11-24,New England Patriots,Miami Dolphins,drake maye,New England Patriots,222,1,1,0,0,0,26,0,1,QB
+2024-11-24,New England Patriots,Miami Dolphins,tua tagovailoa,Miami Dolphins,317,4,0,0,0,0,-2,0,0,QB
+2024-11-24,Philadelphia Eagles,Los Angeles Rams,jalen hurts,Philadelphia Eagles,179,1,0,0,0,0,39,0,0,QB
+2024-11-24,Philadelphia Eagles,Los Angeles Rams,kenny pickett,Philadelphia Eagles,0,0,0,0,0,0,-2,0,0,QB
+2024-11-24,Philadelphia Eagles,Los Angeles Rams,matthew stafford,Los Angeles Rams,243,2,0,0,0,0,15,0,0,QB
+2024-11-24,San Francisco 49ers,Green Bay Packers,brandon allen,San Francisco 49ers,199,1,1,0,0,0,5,0,1,QB
+2024-11-24,San Francisco 49ers,Green Bay Packers,jordan love,Green Bay Packers,163,2,0,0,0,0,2,0,0,QB
+2024-11-24,Tampa Bay Buccaneers,New York Giants,baker mayfield,Tampa Bay Buccaneers,294,0,0,0,0,0,29,1,1,QB
+2024-11-24,Tampa Bay Buccaneers,New York Giants,tommy devito,New York Giants,189,0,0,0,0,0,32,0,0,QB
+2024-11-24,Tampa Bay Buccaneers,New York Giants,drew lock,New York Giants,3,0,0,0,0,0,0,0,0,QB
+2024-11-24,Tennessee Titans,Houston Texans,will levis,Tennessee Titans,278,2,1,0,0,0,10,0,1,QB
+2024-11-24,Tennessee Titans,Houston Texans,c.j. stroud,Houston Texans,247,2,2,0,0,0,18,0,0,QB
