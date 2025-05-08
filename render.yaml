@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: my-app
+    env: python
+    plan: free
+    buildCommand: |
+      apt-get update && apt-get install -y build-essential curl
+      curl https://sh.rustup.rs -sSf | sh -s -- -y
+      export PATH="$HOME/.cargo/bin:$PATH"
+      pip install -r requirements.txt
+    startCommand: gunicorn app:app  # or whatever starts your app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
