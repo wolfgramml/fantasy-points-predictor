@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fantasy Points Predictor</title>
+</head>
+<body>
+  <h2>Fantasy Points Predictor</h2>
+
+  <label>Player Name:
+    <input list="players" name="player_name" id="playerName" required>
+  </label><br><br>
+  
+  <datalist id="players">
+    <!-- Options will be added here dynamically -->
+  </datalist>
+
+  <form id="predictForm">
+    <label>Receptions: <input type="number" step="any" name="receptions" required></label><br><br>
+    <label>Receiving Yards: <input type="number" step="any" name="receiving_yards" required></label><br><br>
+    <label>Receiving TD: <input type="number" step="any" name="receiving_td" required></label><br><br>
+    <label>Rushing Yards: <input type="number" step="any" name="rushing_yards" required></label><br><br>
+    <label>Rushing TD: <input type="number" step="any" name="rushing_td" required></label><br><br>
+    <label>Fumbles Lost: <input type="number" step="any" name="fumbles_lost" required></label><br><br>
+
+    <button type="submit">Predict</button>
+  </form>
+
+  <h3 id="result"></h3>
+  
+  <script>
+    // Load the player names from the JSON file and populate the datalist
+    fetch('static/players.json')  // make sure this path matches where you serve it
+      .then(response => response.json())
+      .then(players => {
+        const datalist = document.getElementById('players');
+        players.forEach(player => {
+          const option = document.createElement('option');
+          option.value = player;
+          datalist.appendChild(option);
+        });
+      })
+      .catch(error => console.error('Error loading player names:', error));
+  </script>
+
+  <script>
+    document.getElementById('predictForm').onsubmit = async function(e) {
+      e.preventDefault();
+
+      const form = e.target;
+      const features = [
+        parseFloat(form.receptions.value),
+        parseFloat(form.receiving_yards.value),
+        parseFloat(form.receiving_td.value),
+        parseFloat(form.rushing_yards.value),
+        parseFloat(form.rushing_td.value),
+        parseFloat(form.fumbles_lost.value)
+      ];
+
+      const response = await fetch('http://localhost:5000/predict', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ features })
+      });
+
+      const result = await response.json();
+      document.getElementById('result').innerText = `Predicted Fantasy Points: ${result.prediction[0].toFixed(2)}`;
+    };
+  </script>
+</body>
+</html>
