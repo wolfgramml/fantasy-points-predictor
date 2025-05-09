@@ -10,8 +10,8 @@ model = xgb.XGBRegressor()
 model.load_model('CombinedModels/offensive_players_model.json')
 
 @app.route('/')
-def index():
-    return render_template('index.html')
+def home():
+    return render_template('home.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -21,6 +21,17 @@ def predict():
     prediction = np.expm1(log_prediction)
     return jsonify({'prediction': prediction.tolist()})
 
+@app.route('/qb-prediction')
+def predict_qb():
+    return render_template('predict_qb.html')
+
+@app.route('/skill-prediction')
+def predict_skill():
+    return render_template('predict_skill.html')
+
+@app.route('/recommend')
+def recommend():
+    return render_template('recommend.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
