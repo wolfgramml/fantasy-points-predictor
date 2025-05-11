@@ -1,11 +1,151 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Weekly Recommendations</title>
+  <meta charset="UTF-8">
+  <title>Weekly Recommendations</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      padding: 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    h1, h2 {
+      text-align: center;
+      color: #343a40;
+    }
+
+    form {
+      background-color: #ffffff;
+      border: 1px solid #dee2e6;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    label {
+      display: block;
+      margin: 10px 0 5px;
+      font-weight: bold;
+    }
+
+    select {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      border-radius: 5px;
+      border: 1px solid #ced4da;
+    }
+
+    button {
+      background-color: #007bff;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    table {
+      width: 100%;
+      margin-top: 20px;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 10px;
+      border: 1px solid #dee2e6;
+      text-align: left;
+    }
+
+    th {
+      background-color: #e9ecef;
+    }
+
+    #resultsTable {
+      display: none;
+    }
+  </style>
 </head>
 <body>
-    <h1>Weekly Fantasy Recommendations</h1>
-    <p>This page will show you which players are predicted to score the highest this week.</p>
+  <h1>Weekly Fantasy Recommendations</h1>
+  <p>Select a week to see the top 20 predicted fantasy players for the following week.</p>
+
+  <form id="weekForm">
+    <label for="weekSelector">Select Week:</label>
+    <select id="weekSelector" required>
+        <option value="">-- Choose a Week --</option>
+        <option value="week1">Week 1</option>
+        <option value="week2">Week 2</option>
+        <option value="week3">Week 3</option>
+        <option value="week4">Week 4</option>
+        <option value="week5">Week 5</option>
+        <option value="week6">Week 6</option>
+        <option value="week7">Week 7</option>
+        <option value="week8">Week 8</option>
+        <option value="week9">Week 9</option>
+        <option value="week10">Week 10</option>
+        <option value="week11">Week 11</option>
+        <option value="week12">Week 12</option>
+      </select>
+      
+
+    <button type="submit">Get Recommendations</button>
+  </form>
+
+  <table id="resultsTable">
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Player</th>
+        <th>Predicted Points</th>
+      </tr>
+    </thead>
+    <tbody id="resultsBody">
+      <!-- Populated by JS -->
+    </tbody>
+  </table>
+
+  <script>
+    document.getElementById('weekForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const week = document.getElementById('weekSelector').value;
+
+    if (!week) return;
+
+    const res = await fetch(`/get-week-recommendations?week=${week}`);
+    const data = await res.json();
+
+    const tbody = document.getElementById('resultsBody');
+    tbody.innerHTML = '';
+
+    const toTitleCase = (str) => {
+        return str
+        .split(' ')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+        .join(' ');
+    };
+
+    data.predictions.forEach((player, index) => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+        <td>${index + 1}</td>
+        <td>${toTitleCase(player.name)}</td>  <!-- Title Case for the player name -->
+        <td>${player.points.toFixed(2)}</td>
+        `;
+        tbody.appendChild(row);
+    });
+
+    document.getElementById('resultsTable').style.display = 'table';
+    });
+  </script>
 </body>
 </html>
