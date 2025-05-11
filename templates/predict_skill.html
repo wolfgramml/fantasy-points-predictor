@@ -97,7 +97,7 @@
   <script>
     let performances = [];
 
-    fetch('static/skill_players.json')
+    fetch('/static/skill_players.json')
       .then(res => res.json())
       .then(players => {
         const datalist = document.getElementById('players');
