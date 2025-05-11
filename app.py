@@ -4,7 +4,6 @@ import numpy as np
 import xgboost as xgb
 import json
 from datetime import datetime
-import requests
 
 WEEK_DATE_RANGES = {
     "week1": ("2024-09-05", "2024-09-11"),
