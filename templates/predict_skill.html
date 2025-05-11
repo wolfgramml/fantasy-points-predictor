@@ -3,6 +3,68 @@
 <head>
   <meta charset="UTF-8">
   <title>Fantasy Points Predictor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      padding: 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+      color: #343a40;
+    }
+
+    form {
+      background-color: #ffffff;
+      border: 1px solid #dee2e6;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    label {
+      display: block;
+      margin: 10px 0 5px;
+      font-weight: bold;
+    }
+
+    input, select {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      border-radius: 5px;
+      border: 1px solid #ced4da;
+    }
+
+    button {
+      background-color: #007bff;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    #result {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 20px;
+      color: #28a745;
+    }
+
+    #performanceSelector {
+      margin-bottom: 15px;
+    }
+  </style>
 </head>
 <body>
   <h2>RB/WR/TE Fantasy Points Predictor</h2>
@@ -11,9 +73,13 @@
     <input list="players" name="player_name" id="playerName" required>
   </label><br><br>
   
-  <datalist id="players">
-    <!-- Options will be added here dynamically -->
-  </datalist>
+  <datalist id="players"></datalist>
+
+  <div id="performanceSelector" style="display:none;">
+    <label>Choose a past performance:
+      <select id="performanceDropdown"></select>
+    </label>
+  </div>
 
   <form id="predictForm">
     <label>Receptions: <input type="number" step="any" name="receptions" required></label><br><br>
@@ -27,11 +93,12 @@
   </form>
 
   <h3 id="result"></h3>
-  
+
   <script>
-    // Load the player names from the JSON file and populate the datalist
-    fetch('static/players.json')  // make sure this path matches where you serve it
-      .then(response => response.json())
+    let performances = [];
+
+    fetch('static/skill_players.json')
+      .then(res => res.json())
       .then(players => {
         const datalist = document.getElementById('players');
         players.forEach(player => {
@@ -40,13 +107,47 @@
           datalist.appendChild(option);
         });
       })
-      .catch(error => console.error('Error loading player names:', error));
-  </script>
+      .catch(err => console.error('Error loading players:', err));
 
-  <script>
+    fetch('static/player_performances.json')
+      .then(res => res.json())
+      .then(data => { performances = data; })
+      .catch(err => console.error('Error loading performances:', err));
+
+    document.getElementById('playerName').addEventListener('input', function () {
+      const inputName = this.value.toLowerCase();
+      const matches = performances.filter(p => p.Player.toLowerCase() === inputName);
+      const dropdown = document.getElementById('performanceDropdown');
+      dropdown.innerHTML = '';
+
+      if (matches.length > 0) {
+        document.getElementById('performanceSelector').style.display = 'block';
+        matches.forEach((perf, i) => {
+          const option = document.createElement('option');
+          option.value = JSON.stringify(perf);
+          option.textContent = `${perf.Date}`;
+          dropdown.appendChild(option);
+        });
+
+        dropdown.selectedIndex = 0;
+        dropdown.dispatchEvent(new Event('change'));
+      } else {
+        document.getElementById('performanceSelector').style.display = 'none';
+      }
+    });
+
+    document.getElementById('performanceDropdown').addEventListener('change', function () {
+      const selected = JSON.parse(this.value);
+      document.querySelector('[name="receptions"]').value = selected.Receptions;
+      document.querySelector('[name="receiving_yards"]').value = selected["Receiving Yards"];
+      document.querySelector('[name="receiving_td"]').value = selected["Receiving TD"];
+      document.querySelector('[name="rushing_yards"]').value = selected["Rushing Yards"];
+      document.querySelector('[name="rushing_td"]').value = selected["Rushing TD"];
+      document.querySelector('[name="fumbles_lost"]').value = selected["Fumbles Lost"];
+    });
+
     document.getElementById('predictForm').onsubmit = async function(e) {
       e.preventDefault();
-
       const form = e.target;
       const features = [
         parseFloat(form.receptions.value),
@@ -57,14 +158,20 @@
         parseFloat(form.fumbles_lost.value)
       ];
 
-      const response = await fetch('https://fantasy-points-predictor.onrender.com/predict', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ features })
-      });
+      try {
+        const res = await fetch('https://fantasy-points-predictor.onrender.com/predict', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ features })
+        });
 
-      const result = await response.json();
-      document.getElementById('result').innerText = `Predicted Fantasy Points: ${result.prediction[0].toFixed(2)}`;
+        const result = await res.json();
+        document.getElementById('result').innerText =
+          `Predicted Fantasy Points: ${result.prediction[0].toFixed(2)}`;
+      } catch (err) {
+        console.error('Prediction error:', err);
+        document.getElementById('result').innerText = 'Error predicting points.';
+      }
     };
   </script>
 </body>
