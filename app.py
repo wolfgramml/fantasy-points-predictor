@@ -9,6 +9,9 @@ CORS(app)
 model = xgb.XGBRegressor()
 model.load_model('CombinedModels/offensive_players_model.json')
 
+qb_model = xgb.XGBRegressor()
+qb_model.load_model('QBs/QB_model.json')
+
 @app.route('/')
 def home():
     return render_template('home.html')
@@ -19,6 +22,13 @@ def predict():
     features = np.array(data['features']).reshape(1, -1)
     log_prediction = model.predict(features)
     prediction = np.expm1(log_prediction)
+    return jsonify({'prediction': prediction.tolist()})
+
+@app.route('/predict-qb', methods=['POST'])
+def predict_qb_points():
+    data = request.get_json()
+    features = np.array(data['features']).reshape(1, -1)
+    prediction = qb_model.predict(features)
     return jsonify({'prediction': prediction.tolist()})
 
 @app.route('/qb-prediction')
